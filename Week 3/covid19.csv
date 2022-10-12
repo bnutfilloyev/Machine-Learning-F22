@@ -1,0 +1,2001 @@
+test_date,cough,fever,sore_throat,shortness_of_breath,head_ache,corona_result,age_60_and_above,gender,test_indication,age
+2021-02-12,0,0,0,0,0,Positive,No,male,Other,51
+2020-10-14,0,0,0,0,0,Positive,No,male,Other,47
+2021-02-22,0,0,0,0,0,Positive,No,female,Contact with confirmed,35
+2021-03-06,1,0,0,0,1,Positive,No,female,Contact with confirmed,37
+2021-09-24,0,0,0,0,0,Positive,No,female,Contact with confirmed,51
+2021-08-19,0,0,0,0,0,Positive,Yes,male,Other,69
+2021-09-07,0,0,0,0,0,Positive,No,male,Other,21
+2020-06-23,0,0,0,0,0,Negative,No,male,Other,41
+2021-09-06,0,0,0,0,0,Negative,Yes,female,Other,82
+2020-09-16,0,0,0,0,0,Positive,No,male,Contact with confirmed,41
+2021-08-25,0,0,0,0,0,Positive,No,female,Other,42
+2021-07-13,0,0,0,0,0,Negative,No,female,,57
+2021-02-08,0,0,0,0,0,Negative,No,male,Other,23
+2021-02-10,0,0,0,0,0,Positive,No,male,,53
+2021-09-12,0,0,0,0,0,Positive,No,female,Other,52
+2021-02-23,0,0,0,0,0,Negative,No,female,Other,52
+2020-12-28,0,0,0,0,0,Positive,No,male,Contact with confirmed,26
+2020-12-22,0,0,0,0,0,Negative,No,female,Other,43
+2020-09-23,0,0,0,0,0,Positive,Yes,male,Other,89
+2020-09-16,0,0,0,0,0,Positive,No,female,,33
+2021-01-12,0,0,0,0,1,Positive,No,male,Other,58
+2021-08-09,0,0,0,0,0,Negative,No,male,Other,55
+2020-07-12,0,1,0,0,0,Positive,No,male,Other,36
+2020-07-05,0,0,0,0,0,Negative,No,male,Other,30
+2020-03-28,0,1,0,0,0,Positive,Yes,male,Other,89
+2021-07-04,0,0,0,0,0,Negative,No,male,,37
+2020-12-14,0,0,0,0,0,Negative,No,male,Other,38
+2020-08-02,0,0,0,0,0,Negative,Yes,female,Other,75
+2020-08-12,0,1,0,0,0,Positive,No,male,Contact with confirmed,31
+2020-11-03,0,0,0,0,0,Negative,Yes,male,Other,83
+2020-09-13,0,0,0,0,0,Positive,No,female,Other,41
+2021-07-30,0,0,0,0,0,Negative,No,male,Other,44
+2021-07-28,0,0,0,0,0,Negative,No,female,Other,53
+2020-09-24,0,0,0,0,0,Positive,No,male,Other,56
+2020-10-05,1,0,0,0,0,Positive,Yes,female,,66
+2020-09-07,0,0,0,0,0,Positive,No,female,Other,41
+2021-01-15,0,0,0,0,0,Negative,No,female,Other,42
+2020-12-28,0,0,0,0,0,Negative,No,male,Other,18
+2021-09-06,0,0,0,0,0,Positive,No,female,Other,50
+2020-08-23,1,0,0,0,1,Positive,No,female,,58
+2021-08-20,0,0,0,0,0,Negative,No,male,Other,36
+2020-12-20,0,0,0,0,0,Positive,No,male,Other,48
+2020-11-08,0,0,0,0,0,Negative,No,male,Other,56
+2021-01-24,1,0,0,1,1,Positive,No,female,Other,57
+2020-11-05,0,0,0,0,0,Negative,No,male,Other,27
+2021-09-22,0,0,0,0,0,Negative,No,female,Other,26
+2020-09-12,0,0,0,0,1,Positive,Yes,female,Other,78
+2020-12-23,0,0,0,0,1,Positive,No,male,Other,51
+2020-12-17,0,0,0,0,0,Negative,No,female,,26
+2021-09-02,0,0,0,0,0,Positive,No,male,Other,34
+2020-08-13,0,0,0,0,0,Negative,No,female,Other,19
+2020-10-28,0,0,0,0,0,Negative,No,male,,19
+2020-10-09,0,0,0,0,0,Negative,No,male,Other,40
+2021-01-25,0,0,0,0,0,Negative,No,male,Other,50
+2020-08-27,0,0,0,0,1,Positive,No,female,Contact with confirmed,30
+2020-11-22,0,0,0,0,0,Negative,No,male,,25
+2021-03-10,0,0,0,0,0,Positive,No,female,Other,26
+2020-09-25,1,1,0,0,0,Positive,No,male,Other,32
+2021-07-28,0,0,0,0,0,Positive,No,female,Contact with confirmed,38
+2021-08-23,0,0,0,0,0,Positive,No,female,Other,48
+2021-01-06,0,0,0,0,0,Positive,No,female,Other,52
+2021-07-27,0,0,0,0,0,Positive,No,male,Other,33
+2021-02-04,0,0,0,0,1,Positive,No,female,Other,53
+2020-12-07,0,0,0,0,0,Negative,No,female,Other,45
+2021-01-05,0,0,0,0,0,Positive,Yes,male,Other,73
+2021-02-02,0,0,1,0,1,Positive,No,female,Other,54
+2020-09-25,0,1,0,0,0,Positive,No,male,Contact with confirmed,32
+2020-10-04,0,1,0,0,0,Positive,No,male,Other,40
+2021-09-10,0,0,0,0,0,Negative,No,male,Other,58
+2021-03-07,0,0,0,0,0,Negative,Yes,female,Other,63
+2021-08-19,0,0,0,0,0,Positive,No,female,Other,44
+2020-10-08,0,0,0,0,0,Positive,No,female,Other,54
+2020-09-25,1,1,0,0,1,Positive,No,female,Contact with confirmed,45
+2021-08-29,0,0,0,0,0,Negative,Yes,male,,87
+2021-01-04,0,0,0,0,0,Negative,No,female,Other,24
+2020-09-21,0,0,0,0,0,Positive,No,male,Contact with confirmed,21
+2020-10-04,0,0,0,0,0,Negative,No,male,,33
+2020-07-29,0,0,0,0,0,Negative,No,female,Other,18
+2020-10-05,0,0,0,0,0,Positive,No,female,Contact with confirmed,23
+2021-03-03,1,0,0,0,0,Positive,No,female,Contact with confirmed,25
+2021-01-16,0,0,0,0,0,Negative,No,female,Other,40
+2021-02-26,0,0,0,0,0,Positive,No,female,Other,47
+2021-01-01,0,0,0,0,0,Negative,No,female,Other,57
+2020-07-07,0,0,0,0,0,Negative,No,female,Other,33
+2021-01-17,0,0,0,0,0,Negative,No,male,Other,52
+2021-08-27,0,0,0,0,0,Positive,No,female,Other,38
+2020-08-09,0,0,0,0,0,Negative,No,female,Other,19
+2021-10-07,0,0,0,0,0,Negative,No,male,Other,47
+2020-11-08,0,0,0,0,0,Negative,No,male,Other,44
+2020-12-27,0,1,0,0,1,Positive,No,female,Other,53
+2021-01-10,0,0,0,0,0,Positive,No,female,Other,52
+2021-07-15,0,0,0,0,0,Negative,No,male,,44
+2021-09-18,0,0,1,0,1,Positive,No,male,Other,33
+2021-01-24,0,0,0,0,0,Positive,No,female,Other,50
+2021-09-30,0,0,0,0,0,Negative,No,female,Other,50
+2021-08-16,0,0,0,0,0,Positive,No,male,Other,31
+2021-03-01,0,0,0,0,0,Negative,No,male,Other,20
+2021-09-05,0,1,0,0,0,Positive,Yes,male,Other,60
+2020-10-27,0,0,0,0,0,Positive,No,male,Contact with confirmed,25
+2021-02-11,0,0,0,0,0,Negative,No,female,Other,32
+2020-09-01,0,0,0,0,0,Negative,No,male,Other,41
+2020-10-11,0,0,0,0,0,Negative,No,female,Other,46
+2021-10-11,0,0,0,0,0,Negative,No,female,Other,57
+2020-09-23,0,0,0,0,0,Positive,No,male,Other,29
+2020-03-23,0,0,0,0,0,Negative,No,female,Other,36
+2021-01-05,0,0,0,0,0,Negative,No,female,Other,32
+2021-01-03,1,0,0,0,0,Positive,Yes,male,Contact with confirmed,89
+2020-12-30,0,1,1,0,0,Positive,No,male,,41
+2021-08-09,0,0,0,0,0,Negative,No,female,Other,50
+2020-08-17,0,0,0,0,0,Negative,No,female,Other,26
+2021-07-20,0,0,0,0,0,Negative,No,male,Other,38
+2020-08-04,0,0,0,0,0,Negative,No,male,Other,35
+2021-03-16,0,0,0,0,0,Negative,Yes,male,Other,78
+2021-01-18,0,0,0,0,1,Positive,No,female,Other,25
+2021-08-15,0,0,0,0,0,Positive,No,female,Other,21
+2020-09-07,0,0,0,0,0,Positive,No,female,Contact with confirmed,20
+2021-02-24,1,0,0,0,0,Positive,No,male,Contact with confirmed,22
+2020-07-07,0,0,0,0,0,Negative,No,female,Other,33
+2021-08-04,0,0,0,0,0,Negative,No,male,Other,41
+2020-09-02,0,0,0,0,0,Negative,No,female,Other,57
+2020-10-06,0,0,0,0,0,Negative,No,male,Other,46
+2021-01-05,0,0,0,0,0,Positive,No,male,Other,34
+2020-12-20,0,0,0,0,0,Negative,No,female,Other,18
+2021-02-18,0,0,1,0,0,Positive,No,male,,24
+2021-07-15,0,0,0,0,0,Negative,No,male,Other,54
+2020-09-25,0,0,0,0,0,Negative,No,male,Other,34
+2020-10-11,0,0,0,0,1,Positive,No,male,Contact with confirmed,19
+2021-07-21,0,0,0,0,0,Negative,No,male,Other,56
+2021-01-03,0,0,0,0,0,Negative,Yes,male,Other,85
+2021-01-08,1,0,1,0,0,Positive,No,male,Contact with confirmed,37
+2021-10-05,0,0,0,0,0,Negative,No,female,,44
+2020-04-05,1,1,0,0,1,Positive,No,male,Other,31
+2020-11-24,0,0,0,0,0,Negative,No,female,Other,55
+2021-08-30,0,0,0,0,0,Positive,No,female,Other,38
+2021-02-01,0,0,0,0,0,Positive,Yes,female,Other,88
+2021-01-24,0,0,0,0,0,Negative,No,male,Other,18
+2020-07-29,0,1,0,0,1,Positive,No,female,Other,56
+2020-11-23,0,0,1,0,1,Negative,No,female,Other,23
+2020-10-05,0,0,0,0,0,Positive,Yes,male,Contact with confirmed,65
+2020-12-18,0,0,0,0,0,Positive,No,male,Contact with confirmed,36
+2020-12-26,0,0,0,0,0,Negative,Yes,female,Other,82
+2020-12-24,0,0,0,0,0,Negative,No,male,Contact with confirmed,44
+2020-06-19,0,0,0,0,0,Negative,No,female,Other,36
+2021-03-21,0,0,0,0,0,Negative,No,female,Other,26
+2021-02-25,0,0,0,0,0,Positive,No,male,Other,39
+2020-11-04,0,0,0,0,0,Negative,No,male,Other,18
+2020-10-16,0,0,0,0,1,Positive,No,female,Abroad,32
+2020-10-21,0,0,0,0,0,Positive,No,female,Other,20
+2021-03-05,0,0,0,0,0,Negative,No,male,Other,55
+2020-09-26,0,0,0,0,0,Positive,No,male,,26
+2020-03-27,1,0,0,0,0,Negative,No,female,Abroad,35
+2021-02-08,0,0,0,0,0,Negative,No,female,,29
+2020-09-21,0,0,0,0,0,Positive,No,male,Other,51
+2020-03-31,0,0,0,0,0,Negative,No,male,Other,27
+2020-11-20,0,0,0,0,0,Negative,No,male,Other,23
+2020-09-14,0,0,0,0,0,Positive,No,female,Other,50
+2020-08-17,0,1,1,0,0,Positive,Yes,female,,78
+2021-01-20,1,1,0,0,0,Positive,No,male,Contact with confirmed,19
+2021-01-15,0,1,0,0,0,Positive,No,female,,43
+2021-01-24,0,0,0,0,0,Positive,No,female,Other,24
+2021-09-09,0,0,0,0,0,Positive,No,female,Other,42
+2021-01-26,0,0,0,0,0,Positive,Yes,female,Other,74
+2020-11-19,0,0,0,0,0,Negative,No,female,Other,49
+2021-01-26,0,0,0,0,0,Positive,No,male,Contact with confirmed,43
+2021-01-13,0,0,0,0,0,Positive,No,male,,28
+2021-02-23,0,0,0,0,0,Positive,No,female,Contact with confirmed,46
+2021-01-10,1,0,0,0,0,Positive,Yes,female,Contact with confirmed,73
+2020-04-10,0,0,0,0,0,Positive,No,male,Abroad,47
+2021-09-05,0,0,0,0,0,Negative,No,female,Other,49
+2020-11-19,1,0,0,0,0,Positive,No,male,Contact with confirmed,50
+2020-07-05,0,0,0,0,0,Negative,Yes,male,Contact with confirmed,63
+2020-07-14,0,0,0,0,0,Negative,No,male,Other,41
+2020-09-30,0,1,0,0,1,Positive,No,male,Contact with confirmed,19
+2020-07-12,0,0,0,0,1,Positive,No,female,Contact with confirmed,25
+2021-08-29,0,0,0,0,0,Positive,No,male,Other,25
+2020-09-11,0,0,0,0,0,Positive,No,female,Other,57
+2020-09-29,0,0,0,0,0,Positive,No,male,Other,47
+2021-07-30,0,0,0,0,0,Negative,No,female,Other,44
+2021-03-14,1,0,0,0,0,Positive,No,male,,57
+2021-01-21,0,1,1,0,1,Positive,No,male,Other,51
+2020-09-26,0,0,0,0,0,Negative,No,female,Other,24
+2021-07-23,0,0,0,0,0,Negative,No,male,Other,27
+2020-06-25,0,0,0,0,0,Negative,Yes,female,Other,82
+2021-02-25,1,1,0,0,0,Positive,No,female,Contact with confirmed,23
+2020-09-14,0,0,0,0,0,Negative,No,male,Other,48
+2021-01-13,0,0,0,0,0,Negative,No,female,Other,45
+2021-08-29,0,0,0,0,0,Positive,No,male,Other,28
+2020-06-21,0,0,0,0,0,Negative,No,male,Other,43
+2020-08-28,0,0,0,0,0,Negative,Yes,male,,81
+2020-12-16,0,0,1,0,1,Positive,No,female,Contact with confirmed,21
+2020-09-30,0,0,0,0,0,Positive,No,male,Other,35
+2020-10-01,0,0,0,0,0,Positive,Yes,male,,68
+2021-02-05,0,0,1,0,0,Positive,No,male,Contact with confirmed,55
+2021-02-14,0,0,0,0,0,Negative,No,female,,23
+2020-09-18,0,0,0,0,0,Negative,No,female,Other,51
+2020-12-13,0,0,0,0,0,Negative,Yes,male,Other,87
+2020-08-23,0,0,0,0,0,Positive,No,male,Other,42
+2021-02-21,0,0,0,0,1,Positive,No,female,Other,42
+2021-03-03,0,0,0,0,0,Negative,No,male,Other,19
+2020-12-04,0,0,0,0,0,Negative,Yes,female,Other,62
+2021-01-13,0,0,0,0,1,Positive,No,female,Other,32
+2021-01-08,0,0,0,0,0,Negative,No,male,Other,55
+2020-09-23,0,0,0,0,0,Negative,No,female,Other,39
+2021-03-10,0,0,0,0,0,Negative,No,female,,42
+2021-03-09,0,0,0,0,0,Negative,No,female,,25
+2021-08-08,0,0,0,0,0,Negative,No,male,Other,32
+2020-08-01,0,0,0,0,0,Positive,No,female,Contact with confirmed,46
+2020-12-24,0,0,0,0,0,Negative,No,male,Other,36
+2020-09-24,0,0,0,0,0,Negative,No,male,Other,47
+2021-09-09,0,0,0,0,0,Negative,No,female,Other,37
+2020-10-04,0,0,0,0,0,Positive,No,male,Other,40
+2021-02-27,0,0,0,0,0,Positive,No,male,,24
+2021-09-05,0,0,0,0,0,Positive,No,female,Other,38
+2021-01-03,0,0,0,0,0,Positive,No,male,Other,48
+2021-02-01,1,0,0,0,0,Positive,No,female,Contact with confirmed,41
+2020-10-11,0,0,0,0,0,Positive,No,male,Other,25
+2020-09-19,0,0,0,0,0,Positive,No,female,Contact with confirmed,43
+2020-09-30,0,0,0,0,0,Positive,Yes,female,Other,67
+2021-01-02,0,0,0,0,0,Positive,No,female,Other,44
+2020-12-07,0,0,0,0,0,Positive,Yes,male,Other,87
+2021-01-11,0,0,0,0,0,Positive,No,female,Contact with confirmed,18
+2020-09-10,0,0,0,0,0,Negative,No,male,Other,43
+2021-01-14,1,1,0,0,1,Positive,No,female,,40
+2020-09-24,0,0,0,0,0,Negative,No,female,Other,25
+2021-01-28,0,0,0,0,1,Positive,No,female,Contact with confirmed,58
+2020-12-16,0,0,0,0,0,Negative,No,male,Other,32
+2020-11-30,0,0,1,0,0,Positive,No,female,Other,30
+2021-02-21,0,0,0,0,0,Negative,No,female,Other,38
+2021-08-20,0,0,0,0,0,Negative,No,female,Other,53
+2021-08-02,0,0,0,0,0,Negative,No,male,Other,24
+2020-09-24,1,0,0,0,1,Positive,No,male,Other,29
+2021-03-05,1,0,0,0,0,Positive,No,female,Other,28
+2021-09-23,0,0,0,0,0,Positive,No,male,Other,30
+2021-08-02,0,0,0,0,0,Positive,No,female,Other,20
+2021-01-31,0,0,0,0,0,Negative,No,female,Other,46
+2020-09-07,1,0,1,0,1,Positive,No,female,Other,53
+2021-08-06,0,0,0,0,0,Positive,No,male,Contact with confirmed,34
+2020-07-31,0,0,0,0,1,Positive,No,male,Other,27
+2020-07-10,0,1,0,0,1,Positive,No,male,Contact with confirmed,42
+2020-09-23,0,0,0,0,0,Positive,No,female,Other,35
+2021-01-30,0,0,0,0,0,Negative,No,female,Other,48
+2021-09-14,0,0,0,0,0,Positive,No,male,Other,22
+2021-09-12,0,0,0,0,0,Negative,No,male,Other,20
+2020-09-09,0,0,0,0,0,Negative,No,female,Other,28
+2021-08-31,0,0,0,0,0,Negative,No,male,Other,54
+2020-10-06,0,0,0,0,0,Negative,No,male,Other,53
+2021-02-28,0,1,1,0,1,Positive,No,male,Other,21
+2021-09-14,0,0,0,0,0,Negative,No,female,Other,45
+2020-08-16,0,0,0,0,0,Positive,Yes,male,Contact with confirmed,70
+2020-12-29,0,0,0,0,0,Negative,No,female,Other,20
+2020-08-03,0,0,0,0,0,Positive,No,female,Contact with confirmed,27
+2020-06-30,1,1,0,0,1,Positive,No,male,Contact with confirmed,58
+2020-08-01,0,0,0,0,0,Positive,No,female,Contact with confirmed,52
+2021-09-09,0,0,0,0,0,Negative,No,female,Other,39
+2020-12-24,0,0,0,0,0,Negative,No,female,Other,50
+2020-09-29,0,0,0,0,0,Positive,No,female,,43
+2021-08-18,0,1,0,1,1,Positive,No,female,Contact with confirmed,38
+2021-09-28,1,0,0,0,0,Positive,No,male,Other,39
+2020-12-23,0,0,0,0,0,Negative,No,female,Other,51
+2020-11-01,0,0,0,0,0,Negative,No,female,Other,45
+2021-01-26,0,0,0,0,0,Negative,No,male,Other,57
+2021-08-09,0,0,0,0,0,Negative,No,female,Other,18
+2021-02-08,0,0,0,0,0,Positive,Yes,female,Contact with confirmed,88
+2021-08-28,0,0,0,0,0,Negative,No,male,Other,54
+2020-09-17,0,0,0,0,0,Positive,No,female,,39
+2020-09-15,0,0,0,0,0,Positive,Yes,female,Other,68
+2020-12-25,0,0,0,0,1,Positive,No,female,Other,37
+2020-12-21,0,0,0,0,0,Negative,Yes,female,Other,65
+2020-11-26,0,0,0,0,0,Negative,No,female,Other,36
+2020-07-01,0,0,0,0,0,Negative,No,male,,41
+2021-08-17,0,0,0,0,0,Positive,No,female,,40
+2020-12-27,0,0,0,0,1,Positive,No,female,Other,49
+2020-12-18,0,0,0,0,0,Negative,No,male,Other,55
+2020-12-01,0,0,0,0,0,Negative,No,male,Other,28
+2021-02-15,1,0,1,0,1,Positive,No,female,Contact with confirmed,26
+2021-08-30,0,0,0,0,0,Positive,No,male,Other,49
+2021-02-24,0,0,0,0,0,Negative,No,male,Other,46
+2020-08-20,0,0,0,0,0,Negative,No,male,Other,54
+2020-12-27,0,0,0,0,0,Positive,No,male,Other,39
+2020-08-21,0,0,0,0,0,Negative,No,male,Other,47
+2020-11-30,1,0,0,0,1,Positive,No,female,,23
+2021-03-03,0,0,0,0,0,Negative,No,female,Other,18
+2021-08-04,0,0,0,0,0,Negative,No,male,Other,53
+2020-09-30,1,1,0,0,1,Positive,Yes,male,Contact with confirmed,73
+2020-07-27,0,0,0,0,0,Negative,No,male,Other,32
+2021-01-08,0,0,0,0,0,Positive,No,female,Contact with confirmed,34
+2021-09-30,0,0,0,0,0,Negative,No,female,Other,46
+2020-11-18,0,0,0,0,0,Positive,No,male,,52
+2021-03-07,0,0,0,0,0,Positive,No,male,Other,43
+2021-02-09,0,0,0,0,0,Negative,No,male,,51
+2020-07-31,0,0,0,0,0,Negative,No,male,Other,45
+2020-11-23,0,0,0,0,0,Negative,No,male,Other,29
+2021-08-25,0,0,0,0,0,Positive,No,male,Other,46
+2020-08-21,1,1,0,0,0,Positive,No,male,Other,51
+2020-12-21,1,0,0,0,1,Positive,No,male,Other,39
+2021-07-29,0,0,0,0,0,Negative,No,female,,25
+2020-11-17,0,0,0,0,0,Negative,No,male,Other,43
+2021-02-16,1,0,0,0,0,Positive,No,female,Contact with confirmed,51
+2020-04-09,0,0,0,0,0,Negative,No,female,Other,52
+2020-12-21,0,0,0,0,0,Negative,No,male,,51
+2020-12-18,0,0,0,0,0,Positive,No,male,Other,54
+2020-10-18,0,0,0,0,0,Negative,Yes,female,Other,78
+2020-12-26,0,0,0,0,0,Positive,Yes,female,Other,77
+2020-10-02,0,0,0,0,0,Positive,No,female,Other,36
+2020-07-12,0,0,0,0,0,Negative,No,female,Other,38
+2021-09-28,0,0,0,0,0,Negative,Yes,male,Other,66
+2021-01-24,0,0,0,0,0,Positive,No,male,Other,28
+2020-04-03,0,0,0,0,0,Positive,No,male,Contact with confirmed,18
+2020-12-23,0,0,0,0,0,Positive,Yes,male,Other,81
+2020-10-29,0,0,0,0,0,Positive,No,female,Other,56
+2021-02-16,0,0,0,0,0,Negative,No,male,Other,37
+2020-09-23,0,0,0,0,0,Positive,No,male,Other,23
+2021-01-06,0,0,0,0,0,Positive,No,male,Other,36
+2020-11-11,0,0,0,0,0,Negative,Yes,female,Other,69
+2020-12-02,0,0,0,0,0,Negative,No,female,,24
+2021-01-09,0,0,0,0,0,Negative,No,female,Other,55
+2021-01-07,0,0,0,0,0,Negative,No,female,Other,31
+2020-09-04,0,0,0,0,0,Positive,No,male,Other,40
+2021-03-11,0,0,0,0,1,Positive,No,male,Other,44
+2021-01-09,0,0,0,0,0,Negative,No,female,Other,23
+2020-07-14,1,1,0,0,1,Positive,No,male,Contact with confirmed,53
+2021-01-18,0,0,0,0,0,Negative,No,female,,23
+2020-08-27,0,0,0,0,0,Positive,Yes,female,Other,72
+2020-12-09,0,0,0,0,0,Negative,Yes,male,Other,83
+2020-11-04,0,0,1,0,1,Positive,Yes,female,Other,84
+2021-01-20,1,0,0,0,0,Positive,No,female,Other,38
+2020-10-18,1,0,0,0,0,Positive,No,male,Contact with confirmed,20
+2020-07-23,0,0,0,0,0,Negative,No,female,Other,40
+2020-12-28,1,1,0,0,0,Positive,No,female,Contact with confirmed,18
+2021-08-19,0,0,0,0,0,Negative,No,female,Other,36
+2021-03-07,0,0,0,0,0,Negative,No,male,Other,25
+2020-09-23,0,0,0,0,0,Negative,No,female,Other,38
+2020-12-20,0,0,0,0,0,Negative,No,female,Other,34
+2021-01-14,0,0,0,0,0,Positive,No,female,Contact with confirmed,28
+2020-08-02,0,0,0,0,0,Negative,No,male,,49
+2021-02-02,1,1,0,0,0,Positive,No,male,,34
+2020-09-25,0,0,0,0,0,Negative,No,male,Other,21
+2021-01-10,0,0,0,0,0,Negative,No,male,Other,24
+2020-06-21,0,1,1,0,1,Positive,No,female,,52
+2020-09-29,0,0,0,0,0,Negative,No,male,Other,53
+2021-01-25,0,0,0,0,0,Positive,No,male,Contact with confirmed,56
+2021-01-18,0,0,0,0,0,Negative,Yes,male,Other,82
+2021-08-11,0,0,0,0,0,Negative,No,female,Other,48
+2021-01-29,1,0,0,0,0,Positive,No,female,Contact with confirmed,32
+2021-02-07,0,0,0,0,0,Positive,No,female,Other,32
+2021-01-10,0,0,0,0,0,Negative,No,male,Other,21
+2021-01-09,0,0,0,0,0,Negative,Yes,male,Other,73
+2021-01-04,0,0,0,0,0,Negative,No,female,Other,46
+2020-10-20,1,0,0,0,0,Negative,Yes,male,Other,62
+2020-09-30,0,0,0,0,1,Positive,No,male,Contact with confirmed,34
+2021-01-14,0,0,0,0,0,Negative,No,male,Other,55
+2020-10-18,0,0,0,0,0,Negative,No,male,Other,56
+2021-01-25,0,0,0,0,0,Negative,No,male,Other,31
+2021-02-21,0,0,0,0,0,Negative,No,female,Other,55
+2020-12-24,0,0,0,0,0,Negative,No,female,Other,28
+2021-03-04,0,0,0,0,0,Positive,No,female,Other,39
+2021-01-28,1,1,0,0,1,Positive,No,female,Contact with confirmed,55
+2021-03-08,0,1,0,0,0,Positive,No,female,Contact with confirmed,57
+2021-08-29,0,1,0,0,1,Positive,No,female,Other,51
+2020-12-24,1,0,1,0,0,Positive,No,female,Contact with confirmed,21
+2020-12-02,0,0,0,0,0,Positive,No,male,Other,19
+2020-10-04,0,1,0,0,0,Positive,No,male,Contact with confirmed,57
+2020-04-05,0,0,0,0,0,Positive,No,female,Abroad,20
+2020-09-15,0,0,0,0,0,Negative,No,male,Other,18
+2021-08-05,0,0,0,0,0,Negative,No,male,,37
+2020-09-09,0,0,0,0,0,Positive,No,male,Other,21
+2020-09-29,0,1,0,0,0,Positive,No,female,Contact with confirmed,27
+2020-08-24,0,1,0,0,0,Positive,No,female,Contact with confirmed,34
+2020-12-15,0,0,0,0,0,Negative,No,male,Other,52
+2020-09-14,0,0,0,0,0,Positive,No,male,Other,47
+2021-01-19,0,0,0,0,0,Negative,No,female,Other,29
+2020-09-10,0,0,0,0,0,Negative,No,male,Other,49
+2021-01-28,0,0,0,0,0,Negative,No,male,Other,29
+2021-10-04,0,0,0,0,0,Positive,No,male,Other,20
+2021-01-31,1,1,0,0,1,Positive,No,male,Contact with confirmed,54
+2020-09-29,0,1,0,0,0,Positive,No,female,Contact with confirmed,18
+2021-02-08,1,0,0,0,0,Positive,No,female,Contact with confirmed,18
+2020-12-16,0,0,0,0,0,Positive,No,male,Other,56
+2020-04-10,1,1,0,0,0,Positive,No,male,Other,58
+2021-07-29,0,0,0,0,0,Negative,No,male,Other,21
+2021-02-10,0,0,0,0,0,Positive,No,female,Contact with confirmed,57
+2021-08-13,0,0,0,0,0,Negative,No,female,Other,35
+2020-12-16,0,0,0,0,0,Negative,No,male,Other,24
+2021-03-08,0,0,0,0,0,Negative,No,female,Other,36
+2021-01-10,0,0,0,0,0,Positive,No,male,Other,55
+2020-11-06,0,0,0,0,0,Negative,Yes,female,Other,75
+2020-11-26,0,0,0,0,0,Negative,No,male,,38
+2020-09-04,0,1,0,0,1,Positive,No,male,Contact with confirmed,45
+2021-01-24,0,0,0,0,0,Negative,Yes,female,Other,70
+2020-09-19,0,0,0,0,0,Positive,No,female,Other,38
+2021-01-27,0,0,1,0,0,Positive,No,female,Other,50
+2020-11-30,0,0,0,0,0,Negative,No,male,Other,48
+2020-11-18,0,0,0,0,0,Negative,No,male,Other,33
+2021-09-23,0,0,0,0,0,Positive,No,female,Other,45
+2021-01-26,0,0,0,0,0,Negative,Yes,female,Other,71
+2021-03-16,0,0,0,0,0,Negative,No,female,Other,32
+2020-10-20,0,0,0,0,1,Positive,No,male,Other,31
+2021-08-23,0,0,0,0,0,Negative,No,male,Other,45
+2020-12-07,0,0,0,0,0,Negative,Yes,female,Other,70
+2020-09-10,0,0,0,0,0,Positive,No,female,Other,55
+2021-08-17,0,0,0,0,0,Positive,No,male,,47
+2021-10-07,0,0,0,0,0,Negative,No,male,Other,57
+2020-08-31,0,0,0,0,0,Negative,No,male,Other,33
+2021-02-21,1,0,1,0,1,Positive,No,male,Other,51
+2021-01-13,1,0,0,0,0,Negative,No,female,Abroad,34
+2020-07-22,0,0,0,0,0,Negative,No,female,Other,43
+2021-08-11,0,0,0,0,0,Negative,No,female,Other,33
+2020-12-16,0,0,1,0,0,Positive,No,female,Contact with confirmed,44
+2021-01-24,0,0,0,0,0,Negative,No,female,,39
+2021-07-23,0,0,0,0,0,Negative,Yes,male,Other,88
+2021-03-09,0,0,0,0,0,Negative,No,female,Other,29
+2021-09-01,0,0,0,0,0,Positive,No,male,Contact with confirmed,58
+2021-01-25,0,0,0,0,0,Positive,No,male,Other,28
+2020-07-01,0,0,0,0,0,Negative,No,male,,51
+2021-08-26,0,0,0,0,0,Positive,No,female,Other,42
+2020-10-26,0,0,0,0,0,Positive,No,female,Contact with confirmed,51
+2021-08-30,0,0,0,0,0,Positive,No,female,Other,29
+2020-11-05,0,0,0,0,0,Negative,No,male,Other,30
+2021-08-15,0,0,0,0,0,Positive,No,male,Other,34
+2020-07-06,0,0,0,0,0,Negative,No,female,Other,46
+2020-04-11,1,1,0,0,0,Negative,No,female,Other,54
+2021-09-03,0,0,0,0,0,Negative,No,male,Other,21
+2020-08-11,0,0,0,0,0,Negative,No,female,Other,26
+2021-03-05,1,0,1,0,1,Positive,No,male,,42
+2020-10-09,0,0,0,0,0,Negative,No,female,Other,24
+2020-09-14,0,0,0,0,0,Negative,No,female,Other,32
+2020-06-28,0,0,0,0,0,Negative,No,male,Other,26
+2020-10-07,0,0,0,0,0,Negative,No,male,Other,38
+2020-08-16,0,1,0,0,0,Positive,No,male,Other,34
+2020-09-20,0,1,0,0,0,Positive,Yes,male,Other,60
+2020-09-17,0,0,0,0,0,Positive,No,male,Other,40
+2020-11-12,0,0,0,0,0,Negative,No,male,Other,50
+2021-08-28,0,0,0,0,0,Negative,Yes,female,Other,78
+2021-02-22,0,0,0,0,0,Negative,No,female,,44
+2020-07-14,0,1,0,0,0,Positive,No,female,Contact with confirmed,33
+2021-08-05,0,0,0,0,0,Negative,No,female,Other,18
+2021-09-05,0,0,0,0,0,Negative,No,female,Other,22
+2021-09-13,0,0,0,0,0,Positive,No,female,Other,24
+2020-09-21,0,0,0,0,0,Positive,No,female,Other,18
+2020-10-25,0,0,0,0,0,Negative,No,female,Other,33
+2020-07-09,1,0,0,0,0,Positive,No,female,Contact with confirmed,52
+2020-09-17,0,1,0,0,0,Positive,No,female,Contact with confirmed,50
+2021-10-04,0,0,0,0,1,Positive,Yes,female,Contact with confirmed,78
+2021-02-01,1,0,0,0,0,Positive,No,male,Contact with confirmed,39
+2021-03-07,0,0,0,0,0,Negative,No,female,Other,29
+2021-01-21,1,0,0,0,0,Positive,No,female,Contact with confirmed,49
+2020-12-30,0,0,0,0,0,Negative,No,female,,47
+2020-09-18,0,0,0,0,0,Negative,No,male,Other,18
+2021-09-12,0,0,0,0,0,Positive,No,female,Contact with confirmed,42
+2020-09-14,0,0,0,0,0,Negative,No,male,Other,29
+2021-08-10,0,0,0,0,0,Positive,No,female,Other,18
+2020-07-20,0,1,0,0,1,Positive,No,female,Other,33
+2021-03-01,0,0,0,0,0,Negative,No,female,Other,31
+2021-08-26,1,0,0,0,1,Positive,No,female,Other,51
+2021-01-20,0,0,0,0,0,Negative,Yes,male,Other,74
+2021-09-03,0,0,0,0,0,Positive,No,female,Other,56
+2021-01-25,0,0,0,0,0,Negative,No,female,Other,30
+2020-09-30,0,0,0,0,0,Positive,No,female,,30
+2020-12-17,0,0,0,0,0,Negative,No,female,,27
+2021-02-03,0,0,0,0,0,Positive,No,male,Contact with confirmed,51
+2020-08-29,0,0,0,0,0,Negative,No,female,Other,45
+2020-12-27,0,0,0,0,0,Positive,No,male,Other,35
+2020-08-10,0,0,0,0,0,Negative,No,female,Other,33
+2020-09-22,0,1,0,0,1,Positive,No,male,Other,21
+2021-01-28,1,1,1,0,1,Positive,No,female,Contact with confirmed,20
+2021-08-15,0,0,0,0,0,Negative,No,male,Other,52
+2020-09-11,0,0,0,0,0,Negative,No,male,Other,31
+2020-12-17,0,0,0,0,0,Negative,No,female,Contact with confirmed,44
+2021-01-18,0,0,0,0,0,Negative,No,male,,51
+2020-10-11,0,1,1,0,0,Positive,No,male,Other,54
+2020-09-03,0,0,0,0,0,Positive,No,female,Other,32
+2021-03-02,0,0,0,0,0,Negative,No,male,Other,31
+2021-01-19,0,0,0,0,0,Positive,No,female,Other,54
+2021-08-27,0,0,0,0,0,Negative,No,male,Other,42
+2020-12-09,1,0,0,0,1,Positive,No,female,Other,32
+2020-10-09,0,0,0,0,0,Negative,No,female,Other,29
+2021-01-25,1,0,0,0,0,Positive,No,female,Other,37
+2020-12-29,0,0,0,0,0,Positive,No,female,Contact with confirmed,54
+2021-08-08,0,0,0,0,0,Negative,Yes,male,Other,76
+2020-08-06,1,0,0,0,1,Positive,No,female,Contact with confirmed,54
+2021-08-18,0,0,0,0,0,Negative,No,female,Other,23
+2021-08-12,1,1,1,0,1,Positive,Yes,female,Contact with confirmed,82
+2021-08-21,0,0,0,0,0,Negative,No,male,Other,45
+2020-09-16,0,0,0,0,0,Negative,No,female,Other,37
+2020-12-25,0,0,0,0,0,Negative,No,female,Other,58
+2021-02-15,0,0,0,0,0,Positive,No,male,Other,35
+2021-01-23,0,0,0,0,0,Positive,No,female,Other,40
+2020-11-03,0,0,0,0,0,Negative,Yes,male,Other,71
+2020-09-02,0,0,0,0,0,Negative,No,female,Other,29
+2021-03-08,0,0,1,0,0,Positive,No,male,Other,32
+2020-09-02,0,0,1,0,0,Positive,No,male,Contact with confirmed,41
+2021-01-12,0,0,0,0,0,Positive,No,female,Other,44
+2021-02-05,0,0,0,0,0,Positive,No,female,Contact with confirmed,44
+2020-07-10,0,0,0,0,0,Negative,No,female,Other,42
+2020-11-26,0,0,0,0,0,Positive,No,female,Contact with confirmed,54
+2021-01-18,0,0,0,0,0,Negative,No,male,Other,28
+2020-09-20,0,1,0,0,1,Negative,No,male,Contact with confirmed,28
+2021-08-24,0,0,0,0,0,Negative,No,male,Other,26
+2020-11-15,0,0,0,0,0,Negative,No,male,,18
+2020-10-16,0,0,0,0,0,Negative,Yes,female,Other,87
+2021-03-07,0,0,0,0,0,Negative,No,male,Other,33
+2020-11-17,0,0,0,0,0,Positive,No,female,Other,32
+2020-10-06,0,0,0,0,0,Negative,No,female,Contact with confirmed,20
+2021-02-11,0,0,0,0,0,Negative,No,female,Other,28
+2021-08-01,0,0,0,0,0,Negative,Yes,female,Other,83
+2021-09-08,0,0,0,0,0,Positive,No,male,Other,23
+2021-01-17,1,0,0,0,0,Positive,No,female,Contact with confirmed,35
+2021-07-30,0,1,0,0,0,Positive,No,male,Contact with confirmed,35
+2020-07-31,0,0,0,0,0,Negative,No,female,Other,47
+2021-10-06,0,0,0,0,0,Negative,No,male,Other,20
+2020-11-28,0,0,0,0,1,Positive,No,female,Other,52
+2020-07-06,0,0,0,0,0,Positive,Yes,male,Other,69
+2020-09-01,1,1,1,0,1,Positive,No,female,Other,35
+2021-03-10,0,0,0,0,0,Negative,No,male,Other,45
+2020-03-27,0,1,0,0,0,Positive,No,female,Contact with confirmed,36
+2021-08-16,0,0,0,0,0,Negative,No,male,Other,31
+2020-10-13,0,0,0,0,0,Positive,No,female,Contact with confirmed,46
+2021-01-14,1,0,0,0,1,Positive,No,male,Other,44
+2021-07-30,0,0,0,0,0,Negative,No,male,Other,25
+2021-09-17,0,0,0,0,0,Negative,No,female,Other,54
+2020-10-12,0,0,0,0,0,Positive,No,female,,45
+2020-10-08,0,0,0,0,0,Negative,Yes,male,Other,84
+2020-10-01,1,1,1,1,1,Positive,Yes,female,Other,79
+2021-01-29,1,0,0,0,0,Positive,No,female,Contact with confirmed,39
+2020-09-26,0,0,0,0,0,Positive,Yes,female,Other,87
+2021-09-11,0,0,0,0,0,Positive,No,male,Other,21
+2020-12-10,0,0,0,0,0,Negative,Yes,female,Other,75
+2021-09-14,0,0,0,0,0,Negative,No,male,Other,44
+2020-09-25,1,0,0,0,0,Positive,No,female,Other,41
+2020-12-25,0,0,0,0,0,Negative,Yes,female,Other,72
+2021-09-09,0,0,0,0,0,Positive,No,male,,18
+2021-01-10,0,0,0,0,0,Positive,No,male,Other,18
+2020-09-16,1,1,0,0,0,Positive,No,male,Contact with confirmed,42
+2020-12-30,0,0,0,0,0,Negative,No,female,Other,36
+2021-08-09,0,0,0,0,0,Positive,No,male,Other,39
+2021-03-14,1,0,0,0,1,Negative,No,male,Contact with confirmed,39
+2021-02-28,0,0,0,0,0,Negative,No,male,Other,50
+2021-03-14,0,0,0,0,0,Negative,No,female,Other,38
+2021-05-08,0,0,0,0,0,Negative,Yes,female,Other,86
+2021-01-26,0,0,0,0,1,Positive,No,female,Contact with confirmed,38
+2020-09-08,0,0,0,0,0,Negative,No,female,Other,23
+2021-01-11,0,0,0,0,0,Negative,Yes,male,Other,87
+2021-01-17,0,0,0,0,0,Positive,Yes,female,Contact with confirmed,69
+2021-02-21,0,0,0,0,0,Positive,No,female,Contact with confirmed,49
+2021-01-27,0,0,0,0,0,Positive,No,female,Contact with confirmed,35
+2021-07-18,0,0,0,0,0,Negative,Yes,male,Other,68
+2020-12-31,0,0,0,0,0,Negative,No,female,Other,18
+2021-09-17,0,0,0,0,0,Positive,No,male,Other,26
+2020-04-01,0,0,0,0,0,Negative,No,male,Other,31
+2020-10-20,0,0,0,0,0,Negative,No,male,Other,36
+2020-07-03,0,0,0,0,0,Negative,No,female,Other,30
+2020-08-02,0,0,0,0,0,Negative,No,male,Other,57
+2020-03-27,0,0,0,0,0,Negative,No,male,Other,32
+2021-08-06,0,0,0,0,0,Negative,No,male,Other,48
+2021-03-01,0,0,0,0,0,Positive,Yes,male,Contact with confirmed,69
+2020-10-12,0,1,0,0,0,Negative,No,male,Other,49
+2021-01-07,1,1,0,0,1,Positive,No,female,Other,49
+2021-02-22,0,0,0,0,0,Negative,No,female,Other,54
+2021-01-18,0,0,0,0,1,Positive,No,female,Other,22
+2021-01-10,0,0,0,0,0,Negative,No,male,Other,42
+2020-09-09,0,0,0,0,0,Positive,No,female,Other,28
+2020-09-08,0,0,0,0,0,Negative,No,male,Other,25
+2020-08-21,0,0,0,0,1,Negative,No,female,Other,49
+2020-10-09,0,0,0,0,0,Negative,No,female,Other,19
+2020-07-05,1,0,0,0,1,Positive,No,female,Contact with confirmed,21
+2021-09-08,0,0,0,0,0,Negative,No,male,Other,23
+2020-08-09,0,0,0,0,0,Negative,Yes,female,Other,73
+2021-08-02,0,0,0,0,0,Negative,No,male,Other,57
+2021-01-26,1,0,0,0,1,Positive,No,female,Other,41
+2020-04-05,0,0,0,0,0,Positive,No,female,Other,24
+2020-12-22,1,0,0,0,0,Positive,No,male,Contact with confirmed,41
+2020-12-14,0,0,0,0,0,Negative,No,female,,18
+2020-12-13,0,0,0,0,0,Positive,No,female,Contact with confirmed,21
+2020-08-18,0,0,0,0,0,Positive,No,female,Contact with confirmed,58
+2020-10-05,0,0,0,0,0,Negative,No,female,Other,32
+2021-02-10,0,0,0,0,1,Positive,No,male,Contact with confirmed,52
+2020-08-06,0,0,0,0,1,Positive,No,female,Contact with confirmed,34
+2020-10-02,0,0,0,0,0,Positive,No,male,Other,37
+2021-01-02,0,0,0,0,0,Positive,No,female,Contact with confirmed,33
+2020-10-15,0,0,0,0,0,Positive,No,female,Other,27
+2021-03-09,0,1,0,0,0,Positive,No,male,Other,56
+2021-08-04,0,0,0,0,1,Positive,Yes,male,Other,82
+2021-01-20,0,1,0,0,1,Positive,No,male,,42
+2020-07-20,0,0,0,0,0,Positive,No,female,Contact with confirmed,22
+2021-03-09,1,1,0,0,0,Negative,No,male,Contact with confirmed,51
+2021-09-11,0,0,0,0,0,Positive,No,male,Other,22
+2020-11-14,0,0,0,0,1,Negative,No,male,Contact with confirmed,31
+2020-08-04,0,0,0,0,0,Negative,No,male,Other,42
+2021-01-31,0,0,0,0,0,Positive,No,male,Other,25
+2020-12-14,0,0,0,0,0,Negative,No,female,Other,54
+2021-03-01,0,0,0,0,0,Positive,No,female,Contact with confirmed,40
+2021-01-07,0,0,0,0,0,Negative,No,female,Other,41
+2020-07-27,1,0,0,0,0,Positive,No,male,Contact with confirmed,50
+2021-01-26,1,0,1,0,1,Positive,No,male,Contact with confirmed,41
+2021-02-16,0,0,0,0,0,Positive,No,male,Contact with confirmed,49
+2021-03-10,0,0,0,0,0,Negative,No,male,Other,23
+2021-08-31,0,0,0,0,0,Positive,No,female,,39
+2021-02-10,0,0,0,0,0,Positive,No,female,Contact with confirmed,32
+2020-07-18,0,0,0,0,0,Negative,No,male,Other,19
+2020-09-22,0,0,0,0,0,Positive,No,female,Other,19
+2020-11-16,0,0,0,0,0,Negative,No,male,Other,20
+2021-01-13,0,0,0,0,0,Negative,No,male,Other,31
+2021-03-21,0,0,0,0,0,Negative,No,male,Other,44
+2021-02-25,0,0,0,0,0,Negative,No,female,Other,24
+2021-02-06,1,0,0,0,0,Positive,No,female,Contact with confirmed,49
+2020-12-08,0,0,0,0,0,Negative,No,male,Other,39
+2020-12-28,0,0,0,0,0,Negative,No,female,Other,31
+2020-09-17,0,0,0,0,0,Positive,No,male,Other,34
+2020-12-08,0,0,0,0,0,Positive,No,male,Contact with confirmed,42
+2020-11-14,0,0,0,0,0,Negative,No,male,Other,54
+2020-10-01,0,0,1,0,0,Positive,No,male,Other,40
+2020-09-19,1,1,0,0,0,Positive,No,male,Contact with confirmed,25
+2021-01-18,1,0,1,0,1,Positive,No,female,Contact with confirmed,26
+2020-07-27,0,0,0,0,0,Positive,No,female,Contact with confirmed,18
+2021-09-26,0,0,0,0,0,Positive,No,female,Other,36
+2021-08-30,0,0,0,0,0,Positive,No,male,,34
+2021-03-08,0,0,0,0,0,Negative,No,female,,58
+2020-10-14,0,0,0,0,0,Negative,Yes,male,Other,79
+2020-10-11,0,0,0,0,1,Positive,No,male,Contact with confirmed,48
+2021-02-25,0,1,1,0,1,Positive,No,male,Contact with confirmed,46
+2021-02-11,1,0,0,0,0,Positive,No,female,Other,25
+2021-07-15,0,0,0,0,0,Negative,No,male,Other,25
+2021-02-11,0,0,0,0,0,Positive,No,male,Other,25
+2021-08-21,0,0,0,0,0,Negative,No,female,Other,20
+2020-08-23,1,1,0,0,1,Positive,No,female,Other,29
+2020-07-07,0,0,0,0,0,Positive,No,female,Other,34
+2021-01-11,0,0,0,0,0,Negative,No,female,Other,49
+2020-10-05,0,1,0,0,1,Positive,No,male,Contact with confirmed,51
+2021-08-04,0,0,0,0,0,Negative,No,male,Other,18
+2020-08-06,0,0,0,0,0,Negative,No,female,,35
+2021-03-14,0,0,0,0,0,Negative,No,male,Other,25
+2021-08-10,0,0,0,0,0,Positive,No,female,Other,34
+2021-03-02,0,0,0,0,0,Positive,No,male,,53
+2020-09-17,0,0,0,0,0,Positive,No,male,Other,52
+2021-02-07,0,0,0,0,0,Positive,No,female,Contact with confirmed,55
+2021-09-19,0,0,0,0,0,Negative,No,female,Other,53
+2021-08-23,0,0,0,0,0,Negative,No,female,,53
+2020-08-25,0,1,0,0,1,Positive,No,female,Other,49
+2020-12-23,0,0,0,0,0,Negative,No,female,Other,25
+2020-08-03,0,0,0,0,0,Negative,No,male,Other,27
+2020-07-08,0,0,0,0,0,Positive,No,male,Contact with confirmed,29
+2021-01-26,0,0,0,0,0,Positive,No,male,,18
+2021-01-18,1,0,0,0,0,Positive,No,male,Contact with confirmed,47
+2021-01-01,0,0,0,0,0,Negative,No,female,Other,29
+2021-02-10,1,0,0,0,0,Positive,No,male,,21
+2021-08-02,0,0,0,0,0,Negative,No,female,,29
+2020-11-20,0,1,0,0,1,Negative,No,female,,24
+2020-07-13,0,0,0,0,0,Positive,No,male,Other,47
+2020-09-25,0,1,0,0,0,Positive,No,female,Other,52
+2021-02-03,0,0,0,0,0,Positive,No,female,Other,47
+2020-10-06,0,0,0,0,0,Negative,No,female,Other,21
+2020-07-08,0,0,0,0,0,Negative,No,female,Other,58
+2021-02-08,0,0,0,0,0,Negative,No,male,Contact with confirmed,56
+2020-09-07,0,0,0,0,0,Negative,No,female,Other,57
+2020-11-16,0,0,0,0,0,Negative,No,male,Other,57
+2020-10-25,0,0,0,0,0,Positive,No,female,Contact with confirmed,43
+2020-09-22,0,0,0,0,0,Positive,No,female,Other,29
+2021-08-16,0,0,0,0,0,Negative,No,male,Other,20
+2020-11-18,0,0,0,0,0,Negative,No,female,Other,31
+2020-11-05,0,0,0,0,0,Negative,Yes,female,Other,82
+2020-12-13,0,0,0,0,0,Negative,No,female,Contact with confirmed,29
+2020-12-24,0,0,0,0,0,Positive,No,male,,47
+2020-09-01,0,1,0,0,0,Positive,Yes,male,Contact with confirmed,87
+2021-02-14,0,0,0,0,0,Positive,No,female,Contact with confirmed,53
+2021-02-23,0,0,0,0,0,Negative,No,male,Other,58
+2021-02-10,0,0,0,0,0,Negative,No,male,Other,42
+2021-01-31,0,0,0,0,0,Negative,No,male,Other,40
+2020-12-31,0,0,0,0,0,Positive,No,female,Other,54
+2020-08-22,0,0,0,0,0,Negative,No,female,Other,28
+2020-08-19,0,0,0,0,0,Positive,No,female,Contact with confirmed,30
+2021-01-18,0,0,0,0,0,Negative,No,female,Other,27
+2021-02-11,0,0,0,0,0,Negative,No,female,Other,44
+2021-02-22,0,0,0,0,0,Positive,No,female,Other,53
+2020-08-02,0,0,0,0,0,Negative,Yes,female,Other,87
+2021-01-14,0,0,0,0,0,Negative,No,female,Other,28
+2021-01-29,0,0,0,0,0,Positive,No,female,Contact with confirmed,57
+2020-10-09,0,0,0,0,1,Positive,No,female,Other,43
+2020-07-03,0,0,1,0,1,Positive,No,female,Contact with confirmed,52
+2020-09-12,0,0,0,0,0,Negative,No,female,Other,28
+2021-01-14,0,0,0,0,0,Positive,No,female,Other,20
+2020-12-01,0,0,0,0,0,Negative,No,female,Other,46
+2020-07-19,0,0,0,0,0,Negative,Yes,male,Other,63
+2021-02-04,0,0,0,0,0,Negative,No,male,Other,37
+2020-12-16,1,1,0,0,0,Positive,Yes,female,Other,65
+2020-07-01,0,0,0,0,0,Negative,No,male,Other,19
+2021-09-19,0,0,0,0,0,Negative,No,female,Other,49
+2020-07-12,0,0,0,0,0,Positive,No,female,Other,51
+2020-07-28,0,0,0,0,0,Positive,Yes,male,Other,72
+2020-03-31,0,0,0,0,0,Positive,No,male,Other,18
+2021-08-25,0,0,0,0,0,Negative,No,male,Other,56
+2020-12-13,0,0,0,0,0,Negative,No,male,,55
+2020-09-18,0,0,0,0,0,Negative,No,female,Other,24
+2020-07-10,0,0,0,0,0,Negative,No,male,Other,22
+2021-09-12,0,1,0,0,1,Positive,No,female,Other,24
+2021-03-04,1,1,1,0,0,Positive,No,male,Contact with confirmed,18
+2021-08-24,0,0,0,0,0,Negative,No,male,Other,54
+2021-01-03,0,0,1,0,0,Positive,Yes,female,Contact with confirmed,61
+2020-12-06,0,0,0,0,0,Negative,No,female,Other,19
+2021-01-19,0,0,0,0,0,Positive,No,female,,50
+2020-04-09,0,0,0,0,0,Negative,No,male,Other,23
+2021-01-24,0,0,0,0,0,Negative,No,female,Other,56
+2021-02-16,0,0,0,0,0,Negative,No,female,Other,21
+2021-02-11,0,0,0,0,0,Positive,Yes,female,Contact with confirmed,78
+2020-11-15,1,0,0,0,0,Negative,No,female,,30
+2021-03-01,0,0,0,0,0,Negative,No,male,Other,45
+2020-10-25,1,0,0,0,0,Positive,Yes,male,Other,77
+2020-09-14,0,0,0,0,0,Positive,No,male,Other,44
+2020-11-13,0,0,0,0,0,Negative,No,male,Other,18
+2020-09-06,0,0,0,0,0,Positive,No,female,Contact with confirmed,53
+2021-02-21,1,0,0,0,0,Positive,No,female,Contact with confirmed,50
+2020-12-03,0,0,0,0,0,Negative,Yes,female,,83
+2021-08-25,0,0,0,0,0,Negative,No,male,Other,31
+2020-09-05,0,0,0,0,0,Negative,No,female,Other,20
+2020-08-11,1,1,0,0,0,Positive,No,female,Contact with confirmed,25
+2021-09-20,0,0,0,0,0,Negative,No,female,Other,48
+2020-07-12,0,0,0,0,0,Negative,No,female,Other,46
+2021-01-15,0,0,0,0,1,Positive,No,female,Contact with confirmed,35
+2021-03-18,0,0,0,0,0,Negative,No,male,Other,21
+2021-08-27,0,0,0,0,0,Positive,No,male,,23
+2020-12-21,1,1,0,0,1,Positive,No,female,,48
+2021-01-03,0,0,0,0,0,Positive,No,male,Contact with confirmed,36
+2021-07-28,0,0,0,1,0,Positive,No,male,Other,33
+2020-07-15,0,0,0,0,0,Negative,No,female,Other,27
+2020-08-02,0,1,0,0,0,Positive,No,female,Contact with confirmed,53
+2020-04-08,1,1,0,1,0,Positive,No,female,Other,50
+2020-09-20,0,0,0,0,0,Positive,No,female,Other,49
+2020-03-31,1,1,0,1,0,Positive,Yes,male,Other,87
+2020-09-22,0,0,0,0,0,Positive,No,male,Other,29
+2021-09-05,0,0,0,0,0,Positive,No,female,Other,42
+2021-02-26,0,0,0,0,0,Positive,No,male,,42
+2020-07-31,0,0,0,0,0,Negative,No,female,Other,23
+2020-12-29,0,0,0,0,0,Negative,No,male,Other,42
+2021-01-15,0,0,0,0,0,Negative,No,female,Other,37
+2021-02-01,0,0,0,0,0,Positive,No,male,Contact with confirmed,38
+2021-07-22,0,0,0,0,0,Negative,No,male,Other,29
+2020-08-25,0,0,0,0,0,Negative,No,male,Other,34
+2021-02-03,0,1,0,0,0,Positive,No,male,Contact with confirmed,46
+2020-09-21,0,0,0,0,0,Negative,No,female,Other,19
+2020-08-05,0,0,0,0,0,Negative,No,male,Other,30
+2020-07-20,0,0,0,0,0,Positive,No,female,Other,31
+2020-08-31,0,0,0,0,0,Positive,No,male,Other,31
+2020-11-24,0,0,0,0,0,Negative,No,female,Other,52
+2020-09-29,0,1,0,0,1,Positive,No,male,Other,28
+2021-03-17,0,0,0,0,0,Negative,Yes,female,Other,80
+2021-01-13,0,0,0,0,0,Negative,No,female,Other,54
+2020-11-29,0,0,0,0,0,Negative,No,male,Other,31
+2021-03-02,0,0,0,0,0,Positive,No,male,Contact with confirmed,58
+2020-07-19,0,0,0,0,0,Negative,Yes,female,Other,69
+2020-11-13,0,0,0,0,0,Negative,Yes,male,Other,86
+2021-09-09,0,1,1,0,1,Positive,No,female,Other,48
+2020-11-10,0,0,0,0,0,Positive,No,female,Other,19
+2021-01-06,1,0,0,0,1,Positive,No,male,Other,25
+2020-12-19,1,0,0,0,0,Positive,No,male,Other,37
+2020-08-05,1,0,0,0,0,Positive,No,male,,50
+2021-09-26,0,0,0,0,0,Positive,No,female,Other,30
+2021-01-24,0,0,0,0,0,Negative,No,female,Other,21
+2020-09-01,0,0,0,0,0,Negative,No,female,Other,53
+2021-01-14,1,0,0,0,0,Negative,No,female,Contact with confirmed,55
+2020-12-21,0,0,0,0,0,Negative,No,male,Other,41
+2021-01-30,0,0,0,0,0,Negative,No,female,Other,26
+2020-08-27,0,0,0,0,0,Negative,No,male,Other,28
+2020-07-23,0,1,0,0,1,Positive,No,male,,21
+2020-09-26,0,0,0,0,0,Negative,No,female,,22
+2020-09-17,0,0,0,0,0,Negative,Yes,female,Other,66
+2020-09-28,0,0,0,0,0,Positive,No,female,Other,29
+2020-07-06,0,0,0,0,0,Negative,Yes,female,Other,75
+2021-01-31,0,0,0,0,0,Negative,No,female,Other,25
+2021-03-02,0,0,0,0,0,Negative,No,male,,58
+2021-10-03,0,0,0,0,0,Negative,No,female,Other,25
+2020-07-19,0,0,0,0,0,Negative,No,female,Other,41
+2020-11-30,0,0,0,0,0,Negative,No,female,Other,53
+2021-02-22,0,0,0,0,0,Negative,No,female,Other,31
+2020-12-27,0,0,0,0,0,Negative,No,male,Other,48
+2021-09-22,0,0,0,0,0,Negative,Yes,female,Other,78
+2021-01-12,0,0,0,0,0,Positive,No,female,Other,24
+2020-03-25,0,0,0,0,0,Negative,No,female,Other,35
+2020-12-03,0,0,0,0,0,Positive,Yes,female,Other,70
+2021-01-13,0,0,0,0,0,Negative,No,female,Other,23
+2020-11-05,0,0,0,0,0,Negative,No,female,Other,31
+2021-09-12,0,0,0,0,0,Positive,No,male,Other,20
+2021-01-21,0,0,0,0,0,Positive,No,female,Other,35
+2021-08-16,0,0,0,0,0,Positive,No,female,Other,49
+2020-09-15,0,0,0,0,0,Positive,No,male,Contact with confirmed,55
+2020-09-23,0,0,0,0,0,Positive,Yes,female,Other,81
+2021-03-15,0,0,0,0,0,Negative,No,male,,21
+2021-02-11,1,0,1,0,1,Positive,Yes,female,Other,88
+2020-10-01,1,0,0,0,0,Negative,No,male,Other,39
+2020-12-09,0,0,0,0,0,Positive,No,female,Other,40
+2021-03-03,0,0,0,0,0,Positive,No,female,Other,45
+2020-07-10,0,0,0,0,0,Positive,No,male,Other,44
+2021-01-06,0,0,0,0,0,Negative,No,male,Other,33
+2020-12-04,1,0,0,0,0,Positive,No,male,,56
+2020-12-25,0,0,0,0,0,Negative,No,female,,56
+2021-08-18,0,1,0,0,1,Positive,Yes,female,,70
+2021-10-06,0,0,0,0,0,Negative,No,male,Other,22
+2021-01-13,0,0,0,0,0,Negative,No,male,Other,44
+2020-12-28,0,0,0,0,0,Negative,No,female,Other,50
+2021-02-22,0,0,0,0,0,Positive,No,male,,35
+2020-07-09,0,0,0,0,0,Negative,No,female,Other,39
+2020-10-15,0,1,0,0,0,Positive,No,male,Contact with confirmed,29
+2021-01-09,1,1,0,0,0,Positive,Yes,male,Other,83
+2020-09-17,0,0,0,0,0,Positive,No,female,Contact with confirmed,40
+2021-09-18,0,0,0,0,0,Positive,No,female,,51
+2020-06-30,0,0,0,0,0,Negative,No,male,Other,25
+2020-10-06,0,0,0,0,0,Negative,Yes,male,Other,62
+2021-01-15,0,0,0,0,0,Negative,No,male,Other,55
+2021-10-06,0,0,0,0,0,Negative,No,female,Other,35
+2020-08-18,0,1,1,0,1,Negative,No,male,Other,53
+2021-08-25,0,0,0,0,0,Positive,No,female,Other,20
+2021-09-01,0,0,0,0,0,Positive,No,male,Other,50
+2021-01-21,0,0,0,0,0,Positive,No,male,Other,45
+2021-08-25,0,0,0,0,0,Positive,No,female,Other,27
+2020-12-04,0,0,0,0,0,Negative,Yes,female,Other,66
+2020-12-31,0,0,0,0,0,Negative,No,male,Other,56
+2020-11-26,0,0,0,0,0,Negative,Yes,male,Other,70
+2020-08-26,0,0,0,0,0,Negative,No,male,Other,44
+2021-01-18,0,0,0,0,0,Positive,No,male,Other,45
+2021-09-05,0,0,0,0,0,Positive,No,female,Contact with confirmed,45
+2020-07-26,0,0,0,0,0,Positive,No,male,Contact with confirmed,24
+2020-07-16,0,0,1,0,1,Positive,No,female,Other,58
+2020-09-13,1,0,0,0,0,Negative,No,female,,53
+2021-01-25,0,0,0,0,0,Negative,No,male,Other,42
+2020-08-12,0,1,0,0,0,Positive,No,male,Other,35
+2021-02-25,0,0,1,0,1,Positive,No,male,Other,47
+2021-01-06,0,0,0,0,0,Negative,No,male,,58
+2021-02-13,0,0,0,0,0,Negative,No,female,,58
+2020-07-14,1,1,0,0,0,Positive,No,male,Other,44
+2020-12-26,0,0,0,0,0,Positive,No,male,Other,25
+2020-12-28,0,0,0,0,0,Negative,No,male,Other,56
+2020-04-14,0,1,0,0,0,Positive,Yes,female,Contact with confirmed,81
+2021-08-26,0,0,0,0,0,Positive,No,male,Other,33
+2020-08-22,0,0,0,0,0,Positive,No,female,,28
+2021-08-20,0,0,0,0,0,Negative,No,male,Other,19
+2020-11-24,0,0,0,0,0,Negative,No,male,Other,43
+2020-09-06,0,0,0,0,0,Positive,Yes,male,Other,76
+2020-08-24,0,0,0,0,0,Positive,No,female,Contact with confirmed,39
+2020-07-23,0,0,0,0,1,Positive,No,female,Other,23
+2020-07-07,0,0,0,0,0,Negative,Yes,female,,88
+2020-09-09,0,0,0,0,0,Positive,No,male,Other,48
+2021-09-19,0,0,0,0,0,Negative,No,female,,47
+2020-08-14,0,0,0,0,0,Positive,No,female,Other,42
+2021-02-01,0,0,0,0,0,Negative,No,female,Other,34
+2020-09-03,0,0,0,1,1,Positive,No,female,Contact with confirmed,55
+2021-09-05,0,0,0,0,0,Positive,No,male,,52
+2020-10-16,0,0,0,0,0,Negative,Yes,female,Other,60
+2020-06-28,0,0,1,0,1,Positive,No,female,Contact with confirmed,25
+2021-03-01,0,0,0,0,0,Negative,No,female,Other,19
+2021-03-14,0,0,0,0,0,Negative,No,male,Other,29
+2021-09-14,1,1,0,0,0,Positive,No,male,,29
+2020-11-18,0,0,0,0,0,Negative,Yes,male,Other,87
+2021-02-20,0,0,1,0,0,Positive,No,female,,38
+2020-11-09,0,0,0,0,0,Negative,Yes,male,Other,67
+2020-10-29,0,0,0,0,0,Negative,No,female,Other,30
+2020-11-30,0,0,0,0,0,Negative,No,female,Other,40
+2021-09-13,0,0,0,0,0,Negative,No,male,Other,31
+2020-09-25,0,0,0,0,0,Negative,No,female,Other,37
+2021-01-31,0,0,0,0,0,Negative,No,female,Other,53
+2020-09-13,1,0,0,0,0,Positive,No,female,Other,48
+2020-12-04,0,0,0,0,0,Negative,No,male,Other,19
+2020-11-25,0,0,0,0,0,Negative,No,female,Other,55
+2020-09-13,0,0,0,0,0,Positive,No,male,Other,31
+2020-09-02,1,1,0,0,0,Positive,No,male,Contact with confirmed,51
+2020-12-22,0,0,0,0,0,Positive,No,female,Contact with confirmed,22
+2020-07-21,0,0,0,0,0,Negative,No,female,Other,19
+2020-08-20,0,0,0,0,0,Negative,No,female,,50
+2020-09-14,0,0,0,0,0,Positive,No,female,Other,27
+2020-12-19,0,0,0,0,0,Negative,No,female,Other,42
+2021-08-04,0,0,0,0,0,Negative,No,female,Other,28
+2021-01-05,0,1,0,0,0,Positive,Yes,male,Other,67
+2021-02-28,1,0,0,0,0,Positive,No,female,Other,44
+2020-11-30,0,0,0,0,0,Negative,No,male,Other,45
+2021-02-18,0,0,0,0,0,Negative,No,female,Other,36
+2020-09-23,0,0,0,0,1,Positive,No,male,Contact with confirmed,25
+2021-08-17,0,0,0,0,0,Negative,No,male,Other,29
+2021-07-30,0,0,0,0,0,Negative,No,female,Other,53
+2020-12-22,0,0,0,0,0,Negative,No,female,Other,38
+2021-01-03,0,0,0,0,0,Positive,No,male,Other,43
+2020-07-31,1,1,0,0,0,Negative,No,male,Other,38
+2021-09-12,0,0,0,0,0,Positive,No,male,Other,24
+2021-09-08,0,0,0,0,0,Negative,Yes,female,Other,88
+2020-09-21,0,0,0,0,0,Positive,Yes,female,,67
+2021-02-06,0,0,0,0,1,Positive,No,female,Other,43
+2021-01-10,0,0,0,0,0,Negative,Yes,male,Other,71
+2020-10-09,0,0,0,0,0,Positive,No,male,Other,54
+2021-02-09,0,0,0,0,0,Negative,No,female,Other,43
+2020-11-18,0,0,0,0,0,Positive,Yes,male,,82
+2021-08-02,1,0,0,0,0,Negative,No,male,Contact with confirmed,57
+2020-03-31,0,0,0,0,0,Negative,No,female,Other,25
+2021-08-29,0,0,0,0,0,Negative,No,male,Other,50
+2020-09-06,1,0,0,0,0,Positive,No,female,,42
+2020-07-22,0,0,0,0,0,Negative,No,male,Other,21
+2020-09-01,0,0,0,0,0,Negative,No,male,Other,31
+2020-09-21,0,0,0,0,0,Positive,No,male,Other,34
+2021-01-12,0,0,0,0,0,Negative,No,female,,28
+2020-12-17,0,0,0,0,0,Negative,No,female,Other,29
+2021-09-05,0,0,0,0,0,Positive,No,female,Other,25
+2021-07-29,0,0,0,0,0,Negative,No,male,Other,35
+2020-08-07,0,0,0,0,0,Positive,No,male,Contact with confirmed,31
+2021-02-04,0,0,0,0,1,Positive,No,female,Contact with confirmed,50
+2021-09-15,0,0,0,0,0,Positive,No,male,Other,21
+2021-09-05,0,0,0,0,0,Negative,No,female,,42
+2021-08-23,0,0,0,0,0,Negative,No,female,Other,46
+2020-07-03,0,0,0,0,0,Negative,Yes,female,Other,86
+2021-01-21,0,0,0,0,0,Negative,No,female,Other,40
+2021-01-07,0,0,0,0,0,Negative,No,female,Other,25
+2021-09-14,0,0,0,0,0,Negative,Yes,male,Other,62
+2020-08-12,0,0,0,0,0,Negative,Yes,female,Other,78
+2021-03-09,1,1,0,1,0,Positive,No,male,Contact with confirmed,51
+2020-10-21,0,0,0,0,0,Negative,Yes,male,Other,60
+2020-12-10,0,0,0,0,0,Negative,No,female,Other,57
+2021-02-11,1,0,0,0,1,Positive,No,male,Other,39
+2021-08-30,0,0,0,0,0,Negative,No,female,Other,45
+2021-09-04,0,0,0,0,0,Negative,No,female,Other,54
+2021-01-24,0,0,0,0,0,Positive,No,male,,20
+2020-09-15,0,0,0,0,0,Positive,No,female,Other,33
+2021-03-14,0,0,0,0,0,Negative,No,male,Other,38
+2021-03-10,0,0,0,1,0,Positive,Yes,male,Contact with confirmed,74
+2020-07-06,0,0,0,0,0,Negative,No,female,Other,46
+2020-03-24,1,0,0,0,0,Negative,No,male,Other,19
+2020-09-04,0,0,0,0,0,Negative,Yes,male,Other,82
+2020-10-05,0,1,0,0,0,Negative,No,male,Other,32
+2021-08-27,0,0,0,0,0,Negative,No,male,Other,37
+2021-10-05,0,1,0,0,0,Positive,No,male,,53
+2021-07-19,0,0,0,0,0,Negative,No,female,Other,45
+2020-10-02,0,0,0,0,0,Negative,No,female,Other,39
+2020-06-19,0,0,0,0,0,Negative,No,female,Other,33
+2021-09-15,0,0,0,0,0,Negative,No,female,Other,28
+2021-01-15,0,1,0,0,1,Positive,No,female,Contact with confirmed,34
+2021-08-19,0,0,0,0,0,Positive,No,female,Other,21
+2021-08-31,0,0,0,0,0,Positive,No,female,Other,43
+2021-02-10,0,0,0,0,0,Positive,No,male,Contact with confirmed,47
+2020-12-02,0,0,0,0,0,Negative,No,female,Other,48
+2021-01-03,0,0,0,0,0,Negative,Yes,male,Other,65
+2020-10-08,0,0,0,0,0,Negative,No,male,Other,45
+2021-02-02,0,0,0,0,0,Positive,No,male,Other,49
+2021-07-26,0,0,0,0,0,Negative,No,male,,41
+2020-12-04,0,0,0,0,1,Positive,No,female,Other,42
+2021-07-20,0,0,0,0,0,Negative,No,male,Other,45
+2020-12-20,0,1,1,0,1,Positive,No,male,Contact with confirmed,28
+2021-01-24,0,0,0,0,0,Negative,No,male,,41
+2020-11-13,0,0,0,0,0,Negative,No,male,Other,20
+2021-01-07,0,0,0,0,0,Positive,No,female,Other,23
+2021-01-26,0,0,0,0,0,Positive,No,male,Contact with confirmed,30
+2021-02-16,0,0,0,0,0,Negative,No,female,Other,34
+2021-01-06,1,0,0,0,0,Positive,No,male,Other,50
+2021-02-20,0,0,0,0,0,Negative,No,female,Other,27
+2020-09-25,0,0,0,0,0,Negative,No,male,Other,37
+2021-08-25,0,0,0,0,0,Positive,No,male,Other,18
+2020-10-02,1,0,1,0,1,Positive,No,female,Contact with confirmed,25
+2021-01-31,0,0,0,0,0,Negative,No,female,Other,36
+2020-09-15,0,0,0,0,0,Positive,Yes,female,Other,65
+2020-09-07,0,0,0,0,0,Positive,No,male,Other,58
+2020-11-18,0,0,0,0,0,Negative,No,male,Other,20
+2020-09-15,0,1,1,0,0,Positive,No,female,,48
+2020-11-06,0,0,0,0,0,Negative,No,female,Other,53
+2021-01-26,0,0,0,0,0,Negative,Yes,male,Other,70
+2020-12-15,0,0,0,0,0,Negative,No,female,Other,26
+2020-04-02,0,0,0,0,0,Positive,Yes,female,Contact with confirmed,85
+2021-09-13,0,0,0,0,1,Positive,No,female,Other,19
+2020-12-15,0,0,0,0,0,Negative,No,female,Other,41
+2020-09-08,0,0,0,0,0,Negative,No,female,Other,54
+2021-08-03,0,0,0,0,0,Negative,No,female,Other,48
+2020-12-10,0,0,0,0,0,Positive,No,female,Other,23
+2020-07-12,0,0,0,0,0,Positive,No,male,Contact with confirmed,23
+2020-04-07,1,0,0,0,1,Positive,No,male,Contact with confirmed,26
+2020-12-17,0,0,0,0,0,Negative,No,female,Other,52
+2021-09-09,0,1,0,0,0,Positive,No,female,Contact with confirmed,52
+2021-07-25,0,1,0,0,1,Positive,No,male,Other,19
+2020-07-03,0,0,0,0,0,Negative,No,male,Other,32
+2021-10-04,0,0,0,0,0,Negative,No,male,Other,26
+2021-01-14,0,0,0,0,0,Positive,No,male,Contact with confirmed,55
+2021-08-29,0,0,0,0,0,Negative,No,female,Other,50
+2020-12-31,0,1,0,0,0,Positive,No,male,Contact with confirmed,46
+2021-02-13,0,0,0,0,0,Positive,No,male,Other,36
+2021-09-09,0,0,0,0,0,Negative,No,male,Other,49
+2021-01-31,0,0,0,0,0,Positive,Yes,female,Other,67
+2021-08-16,1,1,1,0,1,Positive,No,male,Other,42
+2021-01-05,0,0,0,0,0,Positive,No,male,Other,49
+2021-03-08,0,0,0,0,0,Negative,No,male,Other,56
+2021-01-01,0,0,0,0,1,Positive,Yes,female,Other,85
+2020-09-18,0,1,0,0,0,Positive,No,male,Other,20
+2020-10-13,0,0,0,0,0,Negative,No,female,Other,51
+2021-09-14,0,0,0,0,0,Negative,No,female,Other,41
+2020-08-10,1,1,1,0,0,Positive,No,female,Contact with confirmed,20
+2021-09-15,0,0,0,0,0,Positive,No,male,Other,45
+2020-09-07,0,1,0,0,0,Positive,No,male,,31
+2021-01-24,0,0,0,0,0,Negative,No,female,Other,39
+2020-12-13,0,0,0,0,0,Negative,No,female,Other,51
+2021-09-09,0,0,0,0,0,Positive,No,male,Other,58
+2020-08-30,0,0,0,0,0,Negative,No,female,Other,58
+2020-11-13,0,0,0,0,0,Negative,No,male,Other,50
+2021-03-01,0,0,0,0,0,Positive,No,female,Other,41
+2021-02-09,1,1,0,0,0,Positive,No,male,Contact with confirmed,50
+2020-11-08,0,0,0,0,0,Positive,Yes,female,Contact with confirmed,61
+2020-06-29,0,0,0,0,0,Negative,No,male,,21
+2021-09-02,0,0,0,0,0,Negative,No,female,Other,27
+2021-09-04,0,0,0,0,0,Negative,No,male,Other,54
+2021-03-04,1,0,1,0,0,Positive,No,female,Other,53
+2020-10-08,0,0,0,0,0,Negative,No,male,Other,23
+2021-02-25,0,0,0,0,0,Negative,No,female,Other,39
+2021-08-10,0,0,0,0,0,Positive,Yes,female,Other,74
+2020-07-05,0,0,0,0,0,Negative,No,male,Other,41
+2021-03-07,0,0,0,0,1,Positive,No,female,Other,25
+2021-01-14,1,0,0,1,1,Positive,No,male,Contact with confirmed,30
+2021-09-23,0,0,0,0,0,Positive,No,male,Other,40
+2021-01-19,0,0,0,0,1,Positive,No,female,Contact with confirmed,34
+2021-08-19,0,0,0,0,0,Positive,No,female,Other,28
+2020-11-24,0,0,0,0,0,Negative,Yes,male,,66
+2021-03-11,0,1,0,0,1,Negative,No,female,Other,22
+2020-08-04,0,0,0,0,0,Positive,No,male,Other,38
+2020-09-20,0,0,0,0,0,Positive,No,male,Contact with confirmed,21
+2021-02-18,0,0,0,0,0,Positive,No,female,Contact with confirmed,24
+2020-07-21,0,1,0,0,0,Positive,No,male,Other,50
+2021-08-12,0,0,0,0,0,Positive,No,male,Other,40
+2020-08-18,0,0,0,0,0,Positive,No,female,Other,23
+2020-08-10,0,0,0,0,0,Negative,No,female,Other,32
+2020-03-28,1,1,0,0,1,Positive,Yes,male,Contact with confirmed,62
+2021-01-25,0,0,0,0,0,Positive,No,male,Contact with confirmed,30
+2020-08-13,0,0,0,0,0,Positive,Yes,female,Other,87
+2021-09-05,0,0,0,0,0,Negative,No,female,Other,54
+2020-12-28,0,0,0,0,0,Negative,No,female,Other,46
+2021-08-05,0,1,0,0,1,Positive,No,male,Contact with confirmed,56
+2020-09-17,1,1,0,1,0,Positive,No,female,Other,49
+2021-03-15,0,0,0,0,0,Positive,No,male,Other,28
+2020-09-10,0,0,0,0,0,Negative,No,female,Other,33
+2020-07-27,0,0,0,0,0,Positive,No,male,Contact with confirmed,33
+2021-01-13,0,1,0,0,0,Positive,No,male,Other,35
+2021-08-24,0,0,0,0,0,Negative,No,female,Other,22
+2021-01-09,0,0,0,0,0,Negative,No,female,Other,50
+2021-09-04,0,0,0,0,0,Positive,No,female,Other,37
+2021-03-09,0,1,0,0,1,Positive,No,female,Other,55
+2020-12-11,0,0,0,0,0,Negative,No,female,Other,57
+2021-08-28,0,0,0,0,0,Negative,No,female,Other,30
+2020-08-26,0,1,1,0,1,Positive,No,female,Other,50
+2021-08-04,0,0,0,0,0,Negative,No,male,Other,20
+2021-01-27,1,1,0,0,1,Positive,No,female,Contact with confirmed,48
+2021-01-24,0,0,0,0,0,Negative,No,female,Other,48
+2020-11-23,0,0,0,0,0,Negative,No,male,,55
+2020-12-07,0,0,0,0,0,Positive,No,male,Contact with confirmed,41
+2021-08-09,0,0,0,0,0,Positive,No,female,Other,26
+2021-01-18,0,0,0,0,0,Negative,No,male,Other,34
+2020-12-13,0,0,0,0,0,Negative,No,female,Other,45
+2020-07-13,0,0,0,0,0,Negative,No,male,Contact with confirmed,47
+2020-07-29,0,0,0,0,0,Negative,No,male,Other,47
+2020-09-17,0,0,1,0,0,Positive,No,male,Contact with confirmed,41
+2021-01-21,1,1,0,0,0,Positive,Yes,male,Contact with confirmed,76
+2020-12-08,0,0,0,0,0,Negative,No,female,,25
+2020-11-09,0,0,0,0,0,Negative,Yes,female,Other,66
+2020-12-27,0,0,0,0,0,Negative,No,female,Other,54
+2021-02-28,1,0,0,0,0,Positive,No,male,Other,35
+2020-09-24,1,1,0,0,0,Positive,No,male,Other,23
+2021-02-19,0,0,0,0,0,Negative,No,female,Other,21
+2021-08-29,0,0,0,0,0,Positive,Yes,male,Contact with confirmed,72
+2020-08-11,0,0,0,0,0,Positive,Yes,male,Other,76
+2020-12-01,0,0,0,0,0,Negative,No,female,Other,38
+2020-11-29,0,0,0,0,0,Negative,No,male,Other,54
+2020-06-29,0,0,0,0,0,Negative,No,female,,30
+2021-03-10,0,0,0,0,0,Negative,No,male,Other,54
+2021-08-03,1,1,0,0,0,Positive,No,female,Other,46
+2020-12-28,0,0,0,0,0,Negative,No,female,,56
+2020-07-21,0,0,0,0,0,Negative,No,female,,51
+2020-09-25,0,1,0,0,1,Positive,No,male,Other,24
+2020-07-10,0,0,0,0,0,Negative,No,male,,22
+2021-01-20,1,0,0,0,0,Positive,No,male,Contact with confirmed,28
+2020-10-25,0,0,0,0,1,Positive,No,male,Other,35
+2021-07-22,0,0,0,0,0,Negative,No,female,Other,58
+2020-08-27,0,0,0,0,0,Positive,No,male,Other,54
+2021-02-11,1,1,0,0,1,Positive,No,female,Contact with confirmed,46
+2020-12-21,0,0,0,0,0,Positive,No,male,Contact with confirmed,40
+2020-09-13,1,1,0,1,1,Positive,No,female,Contact with confirmed,24
+2020-12-14,0,0,0,0,0,Negative,Yes,male,Other,89
+2020-09-23,0,0,0,0,0,Positive,No,male,Contact with confirmed,34
+2021-07-29,0,1,1,0,1,Positive,No,female,Other,31
+2021-01-19,0,0,0,0,0,Positive,No,female,Contact with confirmed,23
+2020-12-25,0,0,0,0,0,Negative,No,female,Other,54
+2021-02-01,1,0,0,0,0,Positive,No,female,Other,22
+2020-07-28,0,0,0,0,0,Negative,No,female,Other,43
+2020-09-15,0,0,0,0,0,Positive,No,female,Other,21
+2021-01-19,0,0,0,0,0,Negative,No,male,Other,23
+2021-01-21,1,0,0,0,0,Positive,No,male,Contact with confirmed,36
+2021-09-05,0,0,0,0,0,Positive,No,female,Other,20
+2020-09-23,0,0,0,0,0,Positive,No,male,Other,39
+2020-11-20,0,0,0,0,0,Negative,No,male,Other,44
+2020-12-22,0,0,0,0,0,Negative,No,male,Other,36
+2020-11-04,0,0,0,0,0,Negative,No,female,Other,54
+2020-07-22,0,0,0,0,0,Positive,No,female,Other,42
+2021-09-15,0,0,0,0,0,Positive,No,female,Other,27
+2020-12-06,0,0,0,0,0,Negative,No,female,Other,39
+2020-07-16,1,0,0,0,1,Positive,No,female,Contact with confirmed,36
+2021-08-13,0,1,0,0,0,Positive,No,male,,19
+2020-09-22,0,0,0,0,0,Positive,No,male,Other,22
+2021-08-23,0,0,0,0,0,Negative,No,female,Other,33
+2020-11-25,1,0,0,0,0,Negative,No,female,Other,32
+2020-08-12,0,1,0,0,0,Positive,No,male,Contact with confirmed,45
+2021-01-28,0,0,0,0,0,Positive,No,female,Contact with confirmed,53
+2020-07-12,0,0,0,0,0,Negative,No,male,Other,34
+2021-09-13,0,0,0,0,0,Positive,No,male,Other,52
+2020-09-15,0,0,0,0,0,Positive,No,female,,57
+2020-12-11,0,0,0,0,0,Negative,No,male,Other,29
+2020-11-25,0,0,0,0,0,Negative,No,female,Other,36
+2020-09-24,0,0,0,0,0,Positive,Yes,female,Contact with confirmed,60
+2021-08-15,0,0,0,0,0,Negative,Yes,female,Other,86
+2021-01-06,0,0,0,0,0,Positive,No,male,Contact with confirmed,39
+2021-07-07,0,0,0,0,0,Negative,No,female,Other,52
+2021-01-13,0,0,0,0,0,Negative,No,female,Other,23
+2020-08-17,0,1,0,0,0,Positive,No,male,Contact with confirmed,36
+2020-07-30,0,0,0,0,0,Negative,No,female,Other,47
+2021-09-30,0,0,0,0,0,Positive,No,female,Other,21
+2021-09-12,1,0,0,0,1,Positive,No,female,Other,22
+2020-10-02,0,0,0,0,0,Positive,No,male,Other,51
+2021-09-13,0,0,0,0,0,Positive,No,female,Other,35
+2021-03-06,0,0,0,0,0,Positive,No,female,Contact with confirmed,40
+2020-12-14,0,1,0,0,1,Positive,No,female,Other,25
+2020-11-23,0,0,0,0,1,Positive,Yes,female,Contact with confirmed,68
+2021-01-04,0,0,0,0,0,Negative,No,male,Other,51
+2020-09-17,0,1,0,0,0,Positive,No,male,Other,49
+2021-01-04,0,0,0,0,0,Negative,No,female,Other,30
+2020-09-24,0,0,0,0,0,Negative,No,male,Other,34
+2020-04-04,0,1,1,0,0,Positive,No,male,Contact with confirmed,48
+2020-10-20,1,0,0,0,0,Positive,No,male,Contact with confirmed,44
+2020-10-02,1,0,0,0,0,Positive,Yes,female,Other,60
+2021-09-14,0,0,0,0,0,Negative,No,female,Other,58
+2021-03-16,0,0,0,0,0,Negative,No,female,Other,31
+2021-01-28,0,0,0,0,1,Positive,Yes,female,Contact with confirmed,64
+2020-12-20,1,1,0,0,0,Positive,Yes,male,Other,66
+2020-03-31,0,0,0,0,0,Negative,No,male,Other,36
+2021-08-28,0,0,0,0,0,Positive,No,male,,19
+2020-09-17,0,0,0,0,0,Negative,Yes,male,Other,84
+2021-09-19,0,0,0,0,0,Negative,No,female,Other,58
+2020-09-12,0,0,0,0,0,Negative,No,male,Other,48
+2021-09-26,1,0,0,0,0,Positive,Yes,male,Other,72
+2020-10-07,1,0,0,0,0,Positive,Yes,male,Other,77
+2020-08-28,0,0,0,0,0,Negative,No,male,Other,58
+2020-12-31,0,0,0,0,0,Negative,No,male,Other,20
+2020-10-23,0,0,0,0,0,Negative,No,male,Other,42
+2021-10-05,0,0,0,0,0,Negative,No,female,Other,43
+2021-07-23,0,0,0,0,0,Negative,Yes,male,Other,68
+2021-09-26,0,0,0,0,0,Positive,No,male,Contact with confirmed,47
+2020-09-01,0,0,0,0,0,Negative,No,female,Other,20
+2021-09-01,0,1,1,0,0,Negative,No,male,Contact with confirmed,20
+2020-09-14,0,1,0,0,1,Positive,No,male,,56
+2020-09-27,1,1,1,0,0,Positive,No,female,Contact with confirmed,47
+2020-09-30,0,0,0,0,0,Positive,No,female,,32
+2021-10-03,0,0,0,0,0,Positive,No,female,Other,32
+2021-01-05,0,0,0,0,0,Positive,No,female,Contact with confirmed,26
+2021-01-10,0,0,0,0,0,Negative,No,male,Other,44
+2020-11-22,0,0,0,0,0,Positive,No,female,Other,26
+2020-10-25,0,0,0,0,0,Negative,Yes,female,Other,81
+2020-07-13,0,0,0,0,0,Negative,Yes,male,Other,72
+2020-07-05,0,0,0,0,1,Positive,No,female,Contact with confirmed,55
+2020-10-01,0,0,0,0,0,Positive,No,male,Contact with confirmed,33
+2021-08-24,0,0,0,0,0,Positive,No,male,Other,54
+2021-08-06,0,0,0,0,0,Positive,Yes,male,Other,62
+2021-09-24,0,0,0,0,0,Negative,No,male,Other,50
+2020-07-27,0,0,0,0,0,Positive,No,male,Other,58
+2021-01-12,0,0,0,0,0,Positive,No,male,Contact with confirmed,32
+2020-09-15,0,0,0,0,0,Negative,No,female,Other,42
+2020-06-28,0,0,0,0,0,Negative,No,female,Other,53
+2021-09-30,1,1,0,0,0,Positive,Yes,female,Other,80
+2021-02-24,0,0,0,0,0,Negative,No,female,Other,27
+2020-07-07,0,0,0,0,0,Negative,Yes,male,Other,62
+2021-10-11,0,0,0,0,0,Negative,No,male,Other,36
+2021-01-05,0,0,0,0,1,Positive,No,female,Other,55
+2021-01-26,0,0,0,0,0,Positive,No,male,Contact with confirmed,52
+2020-10-05,0,1,0,0,0,Negative,No,male,Contact with confirmed,27
+2020-12-23,0,0,0,0,0,Negative,No,female,,31
+2020-09-30,1,1,1,0,1,Positive,Yes,female,,65
+2021-08-24,0,0,0,0,0,Negative,No,female,Other,35
+2021-01-07,1,0,1,0,1,Positive,No,female,Contact with confirmed,22
+2021-01-07,1,0,0,0,0,Positive,No,male,Contact with confirmed,18
+2020-09-24,0,0,0,0,0,Positive,No,male,Other,30
+2021-08-16,0,0,0,0,0,Positive,No,male,Other,29
+2021-08-23,0,0,0,0,0,Negative,No,female,Other,36
+2021-09-04,0,0,0,0,0,Negative,No,female,Other,44
+2021-01-12,0,0,0,0,0,Negative,No,female,Other,40
+2020-11-23,0,1,0,0,0,Positive,No,female,Other,43
+2020-12-10,0,0,0,0,0,Negative,No,male,Other,50
+2020-12-27,0,0,0,0,1,Negative,No,male,Other,58
+2020-09-04,0,0,0,0,0,Negative,No,male,Other,23
+2020-09-24,0,0,0,0,0,Negative,No,male,Other,31
+2021-03-18,0,0,0,0,0,Negative,No,female,Other,20
+2021-01-13,0,0,0,0,0,Positive,No,female,,28
+2021-01-14,0,0,0,0,0,Positive,No,male,Contact with confirmed,39
+2020-12-20,0,0,0,0,0,Negative,No,male,Other,22
+2021-03-24,0,0,0,0,0,Negative,No,male,Other,23
+2020-10-26,0,0,0,0,0,Negative,No,male,Other,49
+2020-07-22,0,0,0,0,0,Negative,Yes,male,Other,66
+2020-09-18,0,0,0,0,0,Negative,No,female,Other,21
+2020-08-04,0,0,0,0,0,Positive,No,male,Other,56
+2021-07-31,0,0,0,0,0,Positive,No,male,Other,33
+2021-03-08,0,0,0,0,0,Negative,Yes,male,Other,88
+2021-01-11,0,0,0,0,0,Negative,No,female,Other,35
+2021-01-14,0,0,0,0,0,Positive,No,female,Other,58
+2021-09-02,0,0,0,0,0,Positive,No,male,Other,32
+2020-08-27,0,0,0,0,0,Negative,No,female,Other,51
+2021-01-03,0,0,0,1,0,Positive,Yes,female,Contact with confirmed,74
+2021-01-24,1,0,0,0,1,Positive,No,female,Other,40
+2020-11-09,0,0,0,0,0,Negative,No,male,Other,40
+2020-10-06,1,0,0,0,1,Positive,No,male,Other,25
+2020-12-29,1,0,0,0,0,Positive,No,female,Other,41
+2020-08-22,0,0,0,0,1,Positive,No,female,Contact with confirmed,38
+2021-01-09,0,0,0,0,0,Negative,No,female,Other,50
+2020-04-04,0,0,0,0,0,Positive,No,male,Other,58
+2021-01-17,0,0,0,0,0,Positive,No,male,Other,55
+2021-09-27,0,0,0,0,0,Positive,No,male,Other,35
+2021-08-21,0,0,0,0,0,Negative,Yes,female,Other,73
+2020-08-30,0,0,0,0,0,Negative,No,male,Other,36
+2021-02-28,1,1,0,0,0,Positive,No,male,Abroad,55
+2020-06-18,0,0,0,0,0,Negative,No,female,Other,31
+2020-07-30,1,1,0,0,0,Positive,No,male,Other,42
+2021-03-16,0,0,0,0,0,Negative,No,male,Other,22
+2020-12-29,0,0,0,0,0,Negative,No,male,,35
+2021-08-27,0,0,0,0,0,Positive,No,male,Contact with confirmed,49
+2021-08-30,0,0,0,0,0,Negative,No,female,,25
+2021-02-11,0,0,0,0,1,Positive,No,male,Contact with confirmed,46
+2020-07-15,0,0,0,0,0,Positive,Yes,male,Contact with confirmed,82
+2020-09-24,1,0,0,0,0,Positive,No,male,Contact with confirmed,52
+2020-07-29,0,0,0,0,0,Positive,No,female,Other,46
+2021-01-17,0,0,0,0,0,Negative,No,female,Other,45
+2021-02-03,0,0,0,0,0,Positive,No,female,Other,23
+2021-02-21,0,0,0,0,0,Positive,No,female,,33
+2020-08-21,0,0,0,0,0,Positive,No,female,Contact with confirmed,57
+2020-11-22,0,0,0,0,0,Negative,No,female,Other,22
+2020-08-10,0,0,0,0,0,Negative,Yes,male,,88
+2021-08-23,0,0,0,0,0,Negative,No,female,Other,43
+2021-01-21,0,0,0,0,0,Negative,No,male,Contact with confirmed,37
+2020-07-21,0,0,0,0,0,Negative,No,male,Other,24
+2020-09-22,0,0,0,0,0,Negative,No,female,Other,22
+2020-09-07,0,0,0,0,0,Positive,No,female,Contact with confirmed,58
+2021-08-19,0,0,0,0,0,Negative,Yes,male,Other,60
+2020-10-12,1,0,0,0,1,Positive,No,male,,58
+2021-09-30,0,0,0,0,0,Positive,No,male,Contact with confirmed,53
+2021-01-26,0,0,0,0,0,Positive,Yes,male,Contact with confirmed,61
+2020-10-08,0,0,0,0,0,Negative,No,female,Contact with confirmed,33
+2021-01-07,0,0,0,0,0,Negative,No,male,Other,38
+2020-08-17,0,0,0,0,0,Positive,No,female,Contact with confirmed,58
+2021-09-07,0,0,0,0,0,Negative,No,female,Other,46
+2021-02-28,0,0,1,0,1,Positive,Yes,male,Contact with confirmed,79
+2021-02-12,0,0,0,0,0,Positive,No,female,Contact with confirmed,20
+2021-02-27,0,0,0,0,0,Positive,No,female,Contact with confirmed,31
+2021-08-17,0,1,0,0,0,Positive,No,male,Other,31
+2021-01-12,1,0,0,0,0,Positive,No,male,Contact with confirmed,37
+2020-12-13,0,0,0,0,0,Negative,No,female,Other,31
+2020-08-12,0,0,0,0,0,Negative,No,female,Other,32
+2021-01-30,1,0,0,0,0,Negative,No,female,Other,27
+2020-10-23,0,0,0,0,0,Positive,No,male,Other,31
+2020-09-22,0,0,0,0,0,Positive,No,male,Other,25
+2021-01-04,0,0,0,0,0,Negative,No,male,Other,27
+2020-09-14,0,0,0,0,0,Negative,No,male,Contact with confirmed,44
+2021-02-07,0,0,0,0,0,Negative,No,female,Other,38
+2021-01-17,1,0,0,0,0,Positive,No,female,Other,42
+2021-08-06,0,0,0,0,0,Positive,No,female,Other,33
+2020-09-03,0,0,0,0,0,Negative,No,male,Other,27
+2020-07-19,0,0,0,0,0,Positive,No,female,Contact with confirmed,35
+2020-07-05,0,0,0,0,0,Negative,No,female,,38
+2020-12-09,0,0,0,0,0,Positive,No,male,Other,29
+2021-03-08,0,0,0,0,0,Negative,No,male,Other,19
+2020-10-13,0,0,0,0,0,Negative,No,female,Other,40
+2021-08-21,0,0,0,0,0,Negative,No,male,Other,39
+2021-01-05,0,0,0,0,0,Negative,No,male,Other,33
+2021-02-16,0,0,0,0,0,Positive,No,male,Other,23
+2021-03-01,0,0,0,0,0,Negative,No,male,Contact with confirmed,19
+2021-01-25,0,1,0,0,0,Positive,No,female,,36
+2020-12-31,0,0,0,0,0,Negative,No,male,Other,41
+2020-07-26,0,0,0,0,0,Positive,No,female,Other,32
+2021-08-03,0,0,0,0,0,Negative,No,female,Other,52
+2021-01-14,0,0,0,0,0,Negative,No,male,Other,26
+2020-09-15,0,0,0,0,0,Positive,No,male,Other,52
+2021-02-02,0,0,0,0,0,Positive,No,female,Contact with confirmed,33
+2020-09-22,0,0,0,0,0,Positive,No,male,Other,50
+2021-09-22,0,0,0,0,0,Negative,No,female,Other,39
+2020-10-07,0,0,0,0,1,Positive,No,male,Contact with confirmed,36
+2020-07-16,1,0,0,0,1,Positive,No,female,Contact with confirmed,34
+2020-12-27,0,0,0,0,0,Negative,No,male,,55
+2021-02-08,0,0,0,0,0,Negative,No,female,Other,37
+2020-08-05,0,0,0,0,0,Negative,Yes,male,Other,73
+2020-09-07,0,0,0,0,0,Positive,No,female,Other,49
+2020-09-20,0,0,0,0,0,Negative,No,female,Other,18
+2020-09-09,0,0,0,0,0,Negative,No,male,,36
+2020-09-29,0,0,0,0,0,Negative,No,female,Other,54
+2020-09-24,1,0,0,0,1,Positive,Yes,female,Contact with confirmed,76
+2020-09-30,0,0,0,0,0,Positive,No,male,Other,27
+2020-09-26,0,0,0,0,1,Positive,No,female,Contact with confirmed,30
+2021-02-21,0,0,0,0,0,Positive,No,female,Other,33
+2021-08-16,1,0,0,0,0,Positive,Yes,female,Other,61
+2020-04-02,0,0,0,0,0,Negative,No,female,Other,21
+2021-09-12,0,0,0,0,0,Negative,No,female,Other,27
+2020-12-27,0,0,0,0,0,Negative,No,male,Other,30
+2021-07-26,0,0,0,0,0,Negative,Yes,female,Other,62
+2020-08-24,1,0,0,0,0,Negative,No,male,Other,43
+2020-08-02,0,0,0,0,0,Positive,No,female,Contact with confirmed,25
+2020-09-24,0,0,0,0,0,Positive,No,male,Other,23
+2020-10-26,0,1,0,0,0,Positive,No,male,Contact with confirmed,54
+2020-08-30,0,0,0,0,0,Positive,No,female,,41
+2020-12-21,0,0,0,0,0,Negative,No,male,Other,38
+2021-03-10,0,0,0,0,0,Negative,No,female,Other,27
+2020-09-29,0,0,0,0,0,Positive,No,female,Other,36
+2020-07-07,0,0,0,0,0,Positive,Yes,male,Other,67
+2021-08-03,0,0,0,0,0,Negative,No,male,,49
+2020-08-19,0,0,0,0,1,Positive,No,female,Contact with confirmed,28
+2021-09-29,0,0,0,0,0,Negative,Yes,male,Other,61
+2021-08-11,0,1,1,0,0,Positive,No,female,Other,30
+2021-09-05,0,0,0,0,0,Negative,No,female,Other,53
+2020-12-19,0,0,0,0,0,Negative,No,female,Other,50
+2020-09-21,0,0,0,0,0,Negative,No,male,Other,45
+2020-08-28,0,1,0,0,0,Positive,No,female,,53
+2021-09-12,0,0,0,0,0,Positive,No,male,Other,26
+2021-08-05,1,0,0,0,0,Negative,No,female,Other,24
+2021-09-18,0,0,1,0,1,Positive,No,male,Contact with confirmed,57
+2020-08-18,1,0,0,0,1,Negative,Yes,female,Contact with confirmed,70
+2020-11-11,0,0,0,0,0,Negative,No,male,Other,46
+2020-08-24,0,0,0,0,0,Positive,No,female,Other,56
+2021-08-12,0,0,0,0,0,Negative,No,male,Other,25
+2021-02-21,0,0,0,0,0,Negative,Yes,male,Other,87
+2021-02-03,0,0,0,0,0,Positive,No,male,Other,29
+2021-03-02,0,0,0,0,0,Positive,No,female,Contact with confirmed,18
+2021-08-25,0,0,0,0,0,Negative,No,female,Other,30
+2020-09-18,0,0,0,0,0,Negative,No,female,Other,47
+2020-09-09,0,0,0,0,0,Positive,No,male,Other,25
+2020-09-13,0,0,0,0,0,Negative,No,male,,25
+2020-09-13,0,0,0,0,0,Positive,No,male,Other,38
+2021-08-13,0,0,0,0,1,Positive,No,male,Other,52
+2020-08-09,0,0,0,0,0,Negative,No,female,Other,46
+2021-07-21,0,0,0,0,0,Negative,No,male,Other,52
+2021-08-31,0,0,0,0,0,Positive,No,female,Other,25
+2020-09-07,0,0,0,0,0,Positive,Yes,male,Other,87
+2021-01-12,0,0,0,0,0,Negative,No,male,,27
+2020-07-23,0,0,0,0,0,Positive,Yes,female,Other,69
+2021-08-26,0,0,0,0,0,Positive,No,male,Other,29
+2021-01-08,0,0,0,0,0,Negative,No,male,Other,44
+2020-11-19,0,0,0,0,0,Negative,No,female,Other,49
+2020-03-29,0,0,1,1,1,Negative,No,male,Other,40
+2020-12-29,0,0,0,0,0,Positive,No,male,Other,49
+2021-01-03,0,0,0,0,0,Negative,No,male,Other,30
+2021-07-16,0,0,1,0,0,Negative,No,male,Contact with confirmed,50
+2020-08-24,0,0,0,0,0,Negative,No,male,Other,39
+2020-11-19,0,0,0,0,0,Negative,No,male,Other,53
+2020-09-25,0,0,0,0,0,Negative,No,female,Other,42
+2020-07-14,0,0,0,0,0,Positive,No,male,Other,45
+2020-12-05,0,0,0,0,0,Negative,No,male,Other,40
+2020-07-23,0,1,0,0,0,Negative,No,female,Contact with confirmed,38
+2020-12-10,0,0,0,0,0,Negative,No,female,Other,53
+2021-01-11,0,0,0,0,0,Positive,No,male,,55
+2021-03-18,0,0,0,0,0,Negative,No,male,Other,40
+2020-08-27,0,0,0,0,0,Negative,No,male,Other,37
+2021-03-07,0,0,0,0,0,Negative,No,male,Other,28
+2021-08-16,0,0,0,0,0,Positive,No,female,Other,38
+2021-02-14,0,0,0,0,0,Negative,No,female,Other,46
+2020-04-06,0,0,0,0,0,Positive,Yes,male,Contact with confirmed,63
+2021-09-05,0,0,0,0,0,Positive,No,male,Other,18
+2021-08-27,0,0,0,0,0,Positive,No,female,Other,41
+2021-02-11,0,0,0,0,0,Negative,No,male,Other,50
+2021-01-12,0,1,0,0,1,Positive,No,male,,19
+2020-09-03,0,0,0,0,0,Positive,No,female,Other,18
+2021-07-22,0,0,0,0,0,Negative,Yes,male,,66
+2020-07-03,0,0,0,0,0,Negative,No,male,Other,55
+2020-03-27,1,0,0,0,0,Negative,No,female,Contact with confirmed,39
+2021-08-03,0,0,0,0,0,Positive,No,male,Other,33
+2020-08-31,0,0,0,0,0,Negative,No,male,Other,56
+2021-03-07,0,0,0,0,0,Positive,No,male,Other,42
+2020-07-11,0,0,0,0,0,Negative,No,female,Other,21
+2021-01-16,0,0,0,0,0,Positive,No,female,,24
+2021-02-04,0,0,0,0,0,Positive,No,male,Other,20
+2020-12-03,0,0,0,0,0,Negative,No,female,Other,49
+2021-08-13,0,0,0,0,0,Positive,No,male,Other,29
+2021-01-03,0,0,0,0,0,Positive,No,male,Contact with confirmed,52
+2021-08-15,1,0,0,0,0,Positive,Yes,male,Contact with confirmed,60
+2020-11-27,1,0,0,0,0,Negative,No,male,Other,38
+2020-12-28,0,0,0,0,0,Negative,No,male,Other,37
+2020-08-23,0,0,0,0,0,Positive,Yes,male,Other,89
+2020-10-08,0,0,0,0,0,Negative,No,male,Other,42
+2021-01-10,0,0,0,0,0,Positive,No,male,Contact with confirmed,18
+2020-07-28,0,0,0,0,0,Positive,No,male,Contact with confirmed,31
+2020-08-21,0,0,0,0,0,Negative,No,male,Other,24
+2020-12-25,0,0,0,0,1,Positive,No,female,Other,20
+2021-09-17,0,0,0,0,0,Positive,No,female,Other,46
+2021-08-29,0,0,0,0,0,Positive,No,male,Other,58
+2020-09-24,0,0,0,0,0,Positive,No,male,Other,52
+2021-03-08,0,0,0,0,0,Positive,No,male,Other,49
+2021-08-16,0,0,0,0,0,Positive,No,male,,26
+2020-12-29,0,0,0,0,0,Positive,No,male,Other,24
+2020-09-25,0,1,0,0,0,Negative,No,female,Other,20
+2020-08-23,1,1,0,0,0,Positive,No,male,,43
+2020-03-31,1,1,0,0,1,Positive,No,female,,42
+2020-09-10,0,0,0,0,0,Positive,No,male,Other,49
+2020-12-31,0,0,0,0,0,Negative,No,male,Other,48
+2021-01-25,0,1,0,0,0,Positive,No,male,Other,36
+2020-08-12,0,0,0,0,1,Positive,No,male,Other,18
+2020-09-07,0,1,0,0,1,Positive,No,male,Contact with confirmed,45
+2020-09-05,0,1,0,1,0,Positive,No,male,Contact with confirmed,52
+2021-08-24,0,0,0,0,0,Positive,No,male,Other,28
+2020-09-24,0,0,0,0,0,Negative,No,female,Other,20
+2021-01-06,1,1,0,0,0,Positive,No,male,Other,34
+2021-01-07,0,0,0,0,0,Negative,No,female,Other,51
+2020-07-19,0,0,0,0,0,Positive,No,male,Other,52
+2020-08-26,0,0,0,0,0,Negative,No,female,Other,58
+2021-01-16,0,0,0,0,0,Negative,Yes,male,Other,70
+2021-02-03,0,0,0,0,0,Positive,No,female,Contact with confirmed,54
+2021-02-10,0,0,0,0,0,Negative,No,male,Other,55
+2020-10-02,0,1,0,0,0,Positive,No,female,Other,43
+2020-10-07,0,0,0,0,0,Negative,Yes,male,Other,82
+2021-08-15,0,0,0,0,0,Negative,No,female,Other,42
+2021-02-06,0,0,0,0,0,Negative,No,female,Other,50
+2020-09-27,1,1,0,0,1,Positive,No,female,Other,39
+2020-10-04,0,1,0,0,0,Positive,No,male,Contact with confirmed,45
+2020-09-13,0,0,0,0,0,Negative,No,female,Other,23
+2021-01-12,0,0,0,0,1,Positive,No,male,Contact with confirmed,36
+2021-01-13,1,1,0,0,1,Positive,No,male,Other,57
+2021-01-09,0,0,1,0,0,Positive,No,female,,21
+2021-01-31,0,0,0,0,0,Negative,No,male,Other,23
+2020-12-05,0,1,1,0,1,Positive,No,female,Contact with confirmed,22
+2020-11-16,0,0,0,0,0,Negative,No,female,Other,43
+2021-01-10,0,0,0,0,0,Negative,No,male,Other,51
+2021-08-15,0,0,0,0,0,Negative,No,male,Other,33
+2021-07-22,0,0,0,0,0,Negative,Yes,male,Other,87
+2021-02-23,0,0,0,0,0,Negative,No,male,Other,58
+2021-01-27,0,0,0,0,0,Negative,No,male,Other,25
+2020-12-09,0,0,0,0,0,Negative,No,male,Other,41
+2020-09-30,0,0,0,0,0,Positive,No,female,,34
+2021-01-12,0,0,0,0,0,Positive,No,female,Contact with confirmed,20
+2020-08-24,0,1,0,0,0,Positive,No,female,Other,43
+2020-09-21,0,0,0,0,0,Positive,No,male,,51
+2021-01-11,0,0,0,0,0,Negative,No,male,Other,54
+2021-08-01,0,0,0,0,0,Negative,No,female,Other,43
+2020-06-25,0,0,0,0,0,Negative,No,male,Other,20
+2020-09-25,0,0,0,0,0,Positive,No,male,Contact with confirmed,36
+2020-09-14,0,0,0,0,0,Positive,No,male,Contact with confirmed,30
+2021-01-05,0,0,0,0,1,Positive,No,male,Contact with confirmed,48
+2020-12-29,0,0,0,0,0,Positive,No,female,Other,52
+2020-10-01,0,0,0,0,0,Positive,No,female,,23
+2021-01-03,0,0,0,0,0,Negative,No,male,Other,20
+2021-03-08,0,1,0,0,0,Positive,No,female,Contact with confirmed,38
+2021-10-04,0,0,0,0,0,Negative,No,female,Other,48
+2020-03-29,1,0,0,0,1,Positive,Yes,female,Contact with confirmed,65
+2021-09-11,0,0,0,0,0,Positive,No,male,Other,47
+2020-09-26,0,0,0,0,0,Negative,No,male,Contact with confirmed,49
+2021-01-06,0,0,0,0,0,Negative,No,female,Other,58
+2020-04-06,0,0,0,0,0,Negative,No,female,Other,49
+2020-07-06,0,0,0,0,0,Negative,No,female,Other,56
+2020-09-02,1,0,1,0,0,Positive,No,female,Other,33
+2021-02-03,1,0,0,0,0,Positive,No,male,Contact with confirmed,39
+2021-02-07,0,0,0,0,0,Negative,No,male,Other,56
+2020-09-16,0,0,0,0,0,Negative,No,female,Other,33
+2020-11-18,0,0,0,0,0,Positive,No,female,Other,57
+2021-08-26,0,0,0,0,0,Negative,No,male,Other,25
+2020-09-15,0,0,1,0,1,Positive,No,female,Contact with confirmed,22
+2020-11-04,0,0,0,0,0,Negative,No,female,Other,26
+2020-04-06,0,1,0,0,0,Positive,Yes,male,Other,69
+2020-12-07,0,0,0,0,0,Negative,No,male,Other,55
+2020-08-17,0,0,0,0,0,Negative,No,female,Other,36
+2021-09-01,0,0,0,0,0,Positive,No,male,Other,52
+2020-09-29,0,0,0,0,1,Negative,No,female,Contact with confirmed,29
+2021-01-28,0,0,0,0,0,Negative,Yes,male,Other,65
+2020-07-12,0,0,0,0,0,Negative,No,female,Other,52
+2020-12-15,0,0,0,0,0,Positive,No,female,Other,21
+2021-01-23,0,0,0,0,0,Negative,No,female,Other,27
+2021-10-03,0,0,1,0,1,Positive,No,male,Contact with confirmed,50
+2021-08-18,0,0,0,0,0,Positive,No,female,Other,56
+2021-02-02,0,0,0,0,0,Positive,No,female,Contact with confirmed,39
+2021-01-24,0,0,0,0,0,Positive,No,female,Contact with confirmed,33
+2021-09-01,0,0,0,0,0,Positive,No,female,Other,47
+2020-12-11,1,0,0,0,0,Negative,No,male,Contact with confirmed,25
+2021-03-01,1,0,1,0,1,Positive,No,female,,38
+2020-11-03,0,0,0,0,0,Negative,Yes,male,Other,80
+2021-09-19,0,0,0,0,0,Negative,No,male,,36
+2021-08-11,0,0,0,0,0,Negative,No,female,,30
+2021-02-16,1,0,1,0,0,Positive,No,male,,55
+2020-12-17,0,0,0,0,0,Negative,Yes,female,,77
+2020-07-15,0,0,0,0,0,Negative,No,male,Other,50
+2020-07-10,0,0,0,0,0,Negative,No,male,Other,31
+2020-11-27,0,0,0,0,0,Negative,No,female,,43
+2020-08-12,0,1,1,0,0,Positive,No,female,Other,19
+2021-01-04,0,0,0,0,0,Positive,No,female,Other,35
+2020-09-21,0,0,0,0,0,Positive,No,female,Other,38
+2021-08-13,1,0,1,0,1,Negative,No,male,Contact with confirmed,19
+2020-12-17,0,0,0,0,0,Negative,No,male,Other,54
+2020-03-26,1,1,0,0,1,Negative,No,female,Contact with confirmed,24
+2020-07-08,0,1,0,0,1,Positive,No,female,Other,47
+2021-02-11,0,0,0,0,0,Positive,No,female,Contact with confirmed,52
+2021-01-07,0,0,0,0,0,Negative,No,female,Other,56
+2020-12-16,0,0,0,0,0,Positive,Yes,male,Other,82
+2021-01-01,0,0,0,0,0,Negative,No,male,Other,44
+2021-03-01,1,0,0,0,0,Positive,No,female,,38
+2020-10-01,0,0,0,0,0,Positive,No,female,Other,20
+2021-01-28,0,0,0,0,0,Negative,No,female,Other,56
+2020-09-03,0,0,0,0,0,Positive,No,male,Other,25
+2020-07-21,0,0,0,0,1,Positive,No,female,Contact with confirmed,58
+2021-03-17,0,0,0,0,0,Negative,No,male,Other,46
+2020-11-20,0,1,0,0,0,Positive,No,male,Other,58
+2021-01-21,0,0,0,0,0,Positive,No,female,Contact with confirmed,46
+2021-02-26,0,0,0,0,0,Negative,No,male,Other,19
+2021-02-20,0,0,0,0,0,Negative,No,male,Other,50
+2020-09-27,0,0,0,0,0,Positive,Yes,female,Other,88
+2020-11-13,0,0,0,0,0,Negative,No,male,,50
+2020-06-22,0,0,0,0,0,Negative,No,male,Other,40
+2020-07-05,0,0,0,0,0,Positive,No,female,Other,30
+2021-02-19,1,1,0,0,0,Positive,No,male,Other,23
+2020-09-16,0,0,0,0,0,Positive,No,female,,44
+2020-12-04,0,0,0,0,0,Negative,No,female,Other,18
+2020-09-29,0,0,0,0,0,Negative,No,female,Other,50
+2020-08-06,0,1,0,0,0,Positive,No,male,Other,36
+2021-08-02,1,1,0,0,0,Positive,No,female,,25
+2021-02-21,0,0,0,0,0,Negative,No,female,Other,25
+2020-07-17,0,0,0,0,0,Negative,No,male,Other,41
+2020-11-03,0,0,0,0,0,Negative,No,male,Other,45
+2020-09-04,0,0,0,0,0,Positive,No,female,Other,22
+2021-07-25,0,0,0,0,0,Negative,Yes,female,Other,67
+2020-09-01,0,0,0,0,0,Negative,No,female,,43
+2020-11-30,0,0,0,0,0,Negative,No,female,Other,18
+2020-12-25,1,1,0,0,1,Positive,No,male,Contact with confirmed,29
+2020-07-31,0,1,0,0,0,Positive,Yes,female,Other,72
+2020-10-29,1,0,0,0,0,Negative,No,male,Contact with confirmed,40
+2020-10-20,0,1,0,0,0,Positive,No,male,,57
+2020-06-23,0,0,0,0,0,Negative,No,female,Other,33
+2021-01-31,0,0,0,0,0,Negative,No,male,Other,55
+2020-07-03,0,0,0,0,0,Positive,No,female,Other,49
+2021-01-11,1,0,0,0,1,Positive,No,female,Other,33
+2021-01-27,0,0,0,0,0,Positive,No,female,Contact with confirmed,19
+2020-09-17,0,0,0,0,0,Negative,No,female,Other,48
+2020-10-02,0,0,0,0,0,Positive,No,male,Contact with confirmed,55
+2020-10-13,0,1,0,0,0,Positive,No,female,Contact with confirmed,25
+2021-08-24,0,0,0,0,0,Negative,Yes,male,Other,82
+2020-10-12,0,0,0,0,0,Negative,No,male,Other,35
+2021-02-28,0,0,0,0,0,Negative,No,male,Other,34
+2021-02-05,0,0,0,0,1,Positive,No,female,Contact with confirmed,31
+2020-12-08,0,0,0,0,0,Negative,No,female,Other,30
+2020-09-22,0,0,0,0,0,Negative,Yes,female,Other,86
+2020-07-20,0,1,0,0,0,Positive,No,female,Other,47
+2020-09-26,0,0,0,0,0,Positive,No,female,Contact with confirmed,21
+2021-02-16,0,0,0,0,0,Positive,No,female,Other,47
+2020-09-25,0,0,0,0,0,Positive,No,male,Other,38
+2021-08-11,0,0,0,0,0,Negative,No,female,Other,34
+2021-09-10,0,0,0,0,0,Positive,No,male,Other,21
+2020-09-09,0,0,0,0,0,Negative,No,male,Other,24
+2020-09-14,0,0,0,0,0,Negative,No,male,Contact with confirmed,48
+2020-07-30,0,0,0,0,0,Negative,No,female,Other,45
+2021-07-21,0,0,0,0,0,Negative,Yes,male,Other,85
+2020-10-02,0,0,0,0,1,Positive,No,female,Contact with confirmed,20
+2021-01-28,0,0,0,0,0,Positive,No,female,Contact with confirmed,29
+2020-07-17,0,0,0,0,0,Negative,No,female,Other,22
+2020-09-09,0,1,0,0,1,Positive,No,female,Other,45
+2020-12-21,1,1,0,0,1,Positive,No,male,Contact with confirmed,47
+2020-09-29,0,0,0,0,0,Negative,No,female,Other,25
+2021-09-17,0,0,0,0,0,Positive,No,male,Other,19
+2021-03-03,0,0,0,0,0,Negative,No,female,Other,40
+2020-11-08,0,0,0,0,0,Negative,No,female,Other,30
+2021-01-08,0,0,0,0,0,Positive,No,female,Other,46
+2020-07-20,1,1,0,0,1,Positive,No,female,Contact with confirmed,56
+2020-09-08,0,0,0,0,1,Positive,No,female,Contact with confirmed,41
+2021-01-05,0,0,0,0,0,Positive,No,female,Other,38
+2020-08-17,1,0,0,0,0,Positive,No,male,Other,52
+2020-12-31,0,0,0,0,0,Negative,No,male,Other,31
+2021-01-12,0,0,0,0,0,Negative,No,female,Other,52
+2021-09-24,0,0,0,0,0,Positive,No,male,Contact with confirmed,37
+2020-11-20,0,0,0,0,0,Negative,No,male,Other,22
+2021-09-17,0,0,0,0,0,Positive,No,female,Other,31
+2020-09-06,0,0,0,0,0,Negative,No,female,Other,54
+2021-02-17,0,0,1,0,0,Positive,No,male,Other,49
+2020-09-12,0,0,0,0,0,Positive,No,female,Other,39
+2021-08-15,0,0,0,0,0,Negative,Yes,female,Other,68
+2021-09-26,0,0,0,0,0,Negative,No,female,,41
+2021-08-05,0,0,0,0,0,Negative,No,female,Other,55
+2021-01-31,0,0,0,0,0,Positive,Yes,female,Other,69
+2020-04-07,0,0,0,0,0,Positive,No,female,Contact with confirmed,24
+2020-07-05,1,1,0,0,0,Negative,No,female,,41
+2021-02-09,0,0,0,0,0,Positive,No,male,Contact with confirmed,36
+2021-08-28,0,0,0,0,0,Positive,No,female,Other,45
+2020-08-27,0,0,0,0,0,Negative,No,female,Other,20
+2020-08-26,0,1,0,0,0,Positive,No,male,Other,39
+2021-01-15,0,0,0,0,0,Negative,No,female,Other,44
+2021-01-11,0,1,0,0,0,Positive,No,male,,44
+2020-10-15,1,1,1,0,0,Positive,No,female,Contact with confirmed,19
+2020-12-06,0,0,0,0,0,Negative,No,male,Other,45
+2020-09-25,0,0,0,0,0,Negative,No,female,Other,48
+2020-12-29,1,0,0,0,0,Positive,No,female,Other,46
+2020-09-30,0,0,0,0,0,Positive,No,male,Contact with confirmed,27
+2021-07-26,0,0,0,0,0,Negative,Yes,female,Other,70
+2021-01-19,1,0,0,0,0,Positive,No,female,Other,48
+2021-08-09,0,0,0,0,0,Negative,No,female,Other,24
+2021-01-11,0,0,0,0,0,Positive,No,male,Other,30
+2021-01-03,0,0,0,0,0,Positive,No,male,Contact with confirmed,27
+2021-08-12,0,0,0,0,0,Negative,No,female,Other,41
+2021-03-15,0,0,0,0,0,Negative,No,female,Other,35
+2020-07-03,0,0,0,0,0,Negative,Yes,female,Contact with confirmed,71
+2020-04-19,0,0,0,0,0,Negative,Yes,female,Other,68
+2020-10-15,0,0,0,0,0,Negative,No,male,Other,20
+2021-03-07,0,0,0,0,0,Negative,No,male,Other,35
+2021-09-12,0,0,0,0,0,Negative,No,male,Other,31
+2020-12-29,0,0,0,0,1,Positive,No,female,Other,41
+2021-08-18,0,0,0,0,0,Negative,No,female,,44
+2020-03-22,0,0,0,0,0,Negative,No,male,Other,44
+2021-01-10,0,0,0,0,0,Positive,No,female,Other,24
+2020-12-11,0,0,0,0,0,Positive,No,male,Contact with confirmed,50
+2020-09-15,0,0,0,0,0,Positive,No,male,,42
+2020-12-05,0,0,0,0,0,Negative,No,male,Other,46
+2021-07-20,0,0,0,0,0,Negative,No,female,Other,33
+2020-11-15,0,0,0,0,0,Negative,No,female,Other,24
+2021-01-12,0,0,0,0,0,Negative,No,male,Other,34
+2021-02-26,0,0,0,0,0,Positive,No,male,Contact with confirmed,43
+2021-08-06,0,0,0,0,0,Negative,No,female,Other,47
+2020-07-03,0,0,0,0,0,Negative,No,male,Other,26
+2020-12-21,0,0,0,0,0,Negative,Yes,male,Other,61
+2020-09-17,0,0,0,0,0,Negative,No,female,Other,20
+2021-08-09,0,0,0,0,0,Positive,No,male,Other,47
+2021-07-21,0,0,0,0,1,Positive,No,male,Contact with confirmed,31
+2020-11-27,0,0,0,0,0,Negative,Yes,male,Other,71
+2020-09-21,0,0,0,0,0,Negative,Yes,male,Other,71
+2021-08-24,0,0,0,0,0,Negative,No,female,Other,25
+2021-07-15,0,0,0,0,0,Negative,No,female,Other,34
+2020-08-20,0,0,0,0,0,Positive,No,male,Other,35
+2020-09-15,0,0,0,0,0,Positive,No,female,Other,38
+2021-01-01,0,0,0,0,0,Positive,No,female,Contact with confirmed,41
+2020-10-22,0,0,0,0,0,Positive,No,male,Other,56
+2020-08-07,0,1,0,0,1,Positive,No,female,Contact with confirmed,56
+2020-09-08,0,0,0,0,0,Negative,No,male,Other,44
+2021-09-06,0,0,0,0,0,Negative,No,male,Other,41
+2021-02-25,0,0,0,0,0,Negative,No,male,Other,18
+2020-12-30,0,1,0,0,0,Positive,No,male,Contact with confirmed,22
+2021-08-10,0,0,0,0,0,Negative,No,female,Other,37
+2021-09-01,0,0,0,0,0,Negative,No,male,Other,55
+2021-01-10,0,1,1,0,1,Positive,No,male,Contact with confirmed,21
+2021-02-14,0,0,0,0,0,Negative,No,male,,41
+2021-01-08,0,0,0,0,0,Positive,No,male,Other,55
+2021-01-24,1,1,0,0,0,Positive,No,male,Contact with confirmed,18
+2020-11-10,0,0,0,0,0,Negative,Yes,male,Other,62
+2021-01-25,0,0,0,0,0,Positive,No,male,Other,37
+2021-08-25,0,0,0,0,0,Negative,No,male,,27
+2020-11-27,0,0,0,0,0,Negative,No,male,Other,43
+2020-12-07,0,0,0,0,0,Negative,No,female,Other,50
+2021-03-03,0,0,0,0,0,Negative,No,female,Other,41
+2020-10-22,0,0,0,0,0,Negative,No,male,Other,33
+2021-01-14,0,0,0,0,0,Negative,No,female,Other,21
+2020-08-05,0,0,0,0,0,Negative,No,female,Other,42
+2020-09-30,1,1,0,0,0,Positive,No,male,Other,26
+2021-09-05,0,1,0,0,0,Positive,No,female,Other,42
+2020-12-18,0,0,0,0,0,Negative,No,female,,27
+2020-09-18,0,0,0,0,0,Positive,No,female,Other,57
+2021-09-22,0,0,0,0,0,Positive,No,male,Other,23
+2021-02-09,0,0,0,0,0,Negative,No,female,,44
+2020-12-28,0,1,0,0,1,Positive,No,male,,27
+2021-01-19,0,0,0,0,1,Positive,No,female,Other,27
+2020-07-14,0,0,0,0,0,Negative,No,female,Other,28
+2021-02-02,0,1,0,0,0,Positive,No,female,Contact with confirmed,50
+2020-09-17,0,0,0,0,0,Positive,No,male,Other,18
+2020-12-23,0,0,0,0,0,Negative,No,female,Other,51
+2021-09-29,0,0,0,0,0,Negative,No,male,Other,45
+2020-06-29,0,0,0,0,0,Positive,No,male,,19
+2021-03-16,0,0,0,0,0,Negative,No,female,Other,48
+2020-09-02,0,1,0,0,0,Negative,No,male,Other,29
+2021-07-26,0,0,0,0,0,Negative,No,male,Other,23
+2020-09-13,0,0,0,0,0,Negative,No,male,,54
+2020-12-20,0,0,0,0,0,Positive,No,female,Other,20
+2020-07-07,0,0,0,0,0,Negative,No,male,Other,29
+2020-09-23,0,0,0,0,0,Positive,No,female,Other,44
+2020-12-30,0,0,0,0,0,Negative,No,female,Other,54
+2021-02-28,1,0,0,0,0,Positive,No,female,Contact with confirmed,53
+2021-01-09,0,0,0,0,0,Positive,No,male,Contact with confirmed,57
+2020-07-22,0,0,0,0,0,Positive,No,male,Contact with confirmed,24
+2020-09-10,0,0,0,0,0,Positive,Yes,male,Other,81
+2021-08-09,0,0,0,0,0,Negative,No,female,Other,43
+2020-09-03,0,0,0,0,0,Positive,No,male,Other,53
+2020-07-08,1,0,0,0,0,Positive,No,female,Contact with confirmed,57
+2020-11-12,0,0,0,0,0,Negative,No,male,Other,19
+2020-07-10,0,0,0,0,0,Positive,No,male,,56
+2021-09-29,0,0,0,0,0,Positive,No,female,Other,39
+2021-07-25,0,0,0,0,0,Positive,Yes,female,Other,82
+2020-10-01,0,0,0,0,0,Positive,No,male,,44
+2020-08-30,0,0,0,0,0,Positive,No,male,Contact with confirmed,44
+2021-08-09,0,0,0,0,0,Negative,No,male,Other,37
+2020-12-19,0,0,0,0,0,Negative,No,female,Other,34
+2021-01-22,1,0,0,0,0,Positive,No,female,Other,43
+2020-12-26,0,0,0,0,0,Negative,No,male,,55
+2021-09-27,0,0,0,0,0,Negative,No,female,Other,37
+2020-07-23,0,0,0,0,0,Negative,No,male,Other,33
+2020-09-25,0,0,0,0,0,Positive,No,female,Contact with confirmed,58
+2021-03-09,0,1,0,0,0,Positive,No,female,Contact with confirmed,20
+2020-09-21,0,0,0,0,0,Negative,No,female,Other,43
+2021-10-07,0,0,0,1,1,Positive,No,female,Other,58
+2020-07-14,0,0,0,0,0,Negative,No,female,,41
+2020-10-06,0,0,0,0,0,Positive,No,male,,36
+2021-08-04,0,0,0,0,0,Positive,No,female,Other,49
+2021-01-22,0,0,0,0,0,Negative,No,female,,53
+2021-08-08,0,1,1,0,0,Positive,Yes,female,Other,85
+2021-02-28,0,0,0,0,0,Negative,No,female,Other,48
+2021-08-20,0,0,0,0,0,Negative,No,female,,32
+2021-02-18,1,1,0,0,0,Positive,No,female,Contact with confirmed,27
+2021-09-20,0,0,0,0,0,Positive,No,male,,20
+2021-09-13,0,0,0,0,0,Negative,No,male,Other,38
+2021-07-29,0,0,0,0,0,Negative,No,female,Other,32
+2021-01-26,0,0,0,0,0,Positive,No,female,Other,20
+2021-10-07,0,0,0,0,1,Positive,No,female,Other,51
+2021-01-31,0,0,0,0,0,Positive,Yes,male,Contact with confirmed,64
+2020-09-02,0,0,0,0,0,Positive,No,female,Contact with confirmed,44
+2020-10-10,0,0,0,0,0,Negative,No,female,Other,22
+2021-08-31,0,0,0,0,0,Negative,No,male,Other,43
+2021-01-01,0,0,0,0,0,Negative,Yes,male,Other,69
+2020-03-27,0,0,0,0,0,Positive,No,male,Other,50
+2021-01-02,0,0,0,0,0,Negative,No,female,Other,22
+2021-02-18,0,0,0,0,0,Negative,No,male,Other,56
+2020-11-01,0,0,0,0,0,Negative,No,female,Contact with confirmed,24
+2020-10-21,0,0,0,0,0,Positive,No,female,Contact with confirmed,41
+2021-02-01,0,0,0,0,0,Positive,Yes,female,Contact with confirmed,69
+2020-04-12,0,0,0,0,0,Positive,Yes,female,Other,60
+2021-08-30,0,0,0,0,0,Negative,No,female,Other,52
+2020-10-25,0,0,0,0,0,Positive,No,male,Other,50
+2021-01-06,0,0,0,0,0,Negative,No,male,Other,33
+2020-09-24,0,0,0,0,0,Negative,No,male,Other,27
+2021-01-01,0,0,0,0,0,Negative,No,female,Other,26
+2021-08-25,0,0,0,0,0,Negative,No,male,Other,48
+2020-09-16,0,0,0,0,0,Positive,No,male,,31
+2020-11-23,0,0,0,0,0,Negative,No,female,Other,52
+2020-12-06,0,0,0,0,0,Negative,No,male,Other,43
+2021-03-17,0,0,0,0,0,Negative,No,female,Other,26
+2020-09-17,0,0,0,0,0,Negative,No,male,Other,31
+2020-09-17,0,0,0,0,0,Negative,No,male,,26
+2020-10-18,0,0,0,0,0,Positive,No,male,Contact with confirmed,38
+2020-08-13,0,0,0,0,0,Positive,No,female,Other,42
+2020-09-23,0,0,0,0,0,Positive,No,male,Other,31
+2021-01-27,1,1,0,0,0,Positive,No,male,Other,33
+2021-07-07,0,0,0,0,0,Negative,No,female,,24
+2020-08-04,0,0,0,0,1,Positive,No,female,Other,50
+2021-01-01,0,1,0,0,0,Positive,No,male,Other,46
+2020-11-20,0,0,0,0,0,Negative,No,female,Other,57
+2020-09-30,0,0,0,0,0,Positive,No,male,Other,29
+2021-08-13,0,0,0,0,0,Negative,No,male,Other,40
+2021-01-07,1,0,0,0,0,Negative,Yes,female,,69
+2020-12-30,0,1,0,0,0,Positive,Yes,female,Other,82
+2020-11-09,0,0,0,0,0,Negative,No,female,Other,46
+2020-12-08,0,0,0,0,0,Negative,No,male,,47
+2020-12-16,0,0,0,0,0,Negative,No,female,,48
+2020-07-20,0,0,0,0,0,Positive,No,female,Contact with confirmed,52
+2020-12-29,0,0,0,0,0,Negative,No,male,Other,33
+2020-09-07,1,1,0,0,1,Positive,No,male,Contact with confirmed,41
+2020-09-03,0,0,0,0,0,Positive,No,male,Other,25
+2020-08-21,0,1,0,0,0,Positive,No,male,Other,47
+2020-11-04,0,0,1,0,1,Positive,No,female,Contact with confirmed,33
+2020-07-06,0,0,0,0,0,Negative,No,female,,19
+2020-12-14,0,0,0,0,0,Negative,No,male,,58
+2020-09-22,1,0,0,0,0,Positive,No,male,Contact with confirmed,21
+2021-01-28,0,0,0,0,0,Negative,No,female,Other,27
+2020-10-04,0,0,0,0,0,Positive,No,male,Other,35
+2021-01-12,0,0,0,0,0,Positive,Yes,male,Other,69
+2020-07-08,0,0,0,0,0,Negative,Yes,female,Other,80
+2020-12-09,0,0,0,0,0,Negative,No,male,Other,24
+2021-02-19,0,0,0,0,0,Negative,No,female,Other,53
+2020-10-04,0,0,0,0,0,Positive,No,male,Other,34
+2021-09-05,0,0,0,0,0,Negative,No,female,Other,19
+2021-03-02,0,0,0,0,0,Negative,No,female,Other,51
+2020-10-05,0,0,1,0,0,Positive,No,male,Contact with confirmed,37
+2020-09-27,0,0,0,0,0,Positive,No,female,,54
+2020-11-27,0,0,0,0,0,Negative,Yes,female,Other,67
+2021-01-05,0,0,0,0,0,Positive,No,female,Contact with confirmed,36
+2020-09-22,0,0,0,0,1,Positive,No,female,Other,56
+2020-04-04,0,1,0,0,0,Positive,Yes,male,,64
+2021-09-09,0,0,0,0,0,Positive,No,male,Contact with confirmed,52
+2021-01-29,0,0,0,0,0,Positive,No,male,Other,54
+2020-06-25,0,0,0,0,0,Positive,No,female,Contact with confirmed,31
+2020-12-07,0,0,0,0,0,Negative,No,female,Other,53
+2021-08-07,0,0,0,0,0,Negative,No,female,Other,54
+2021-08-07,0,0,0,0,0,Negative,No,male,,44
+2020-12-29,0,0,0,0,0,Negative,No,male,Other,29
+2020-08-12,0,0,0,0,0,Negative,No,female,Other,49
+2020-07-14,0,0,0,0,0,Negative,No,female,Other,52
+2020-12-07,0,0,0,0,0,Negative,No,female,Other,27
+2021-02-05,0,0,0,0,0,Negative,No,female,,29
+2021-01-14,0,0,0,0,0,Positive,No,female,Contact with confirmed,51
+2020-08-02,1,0,0,0,1,Negative,No,female,Other,49
+2021-01-25,1,0,1,0,0,Positive,No,male,Contact with confirmed,37
+2021-07-28,0,0,0,0,0,Negative,No,male,Other,48
+2021-02-12,0,0,0,0,0,Positive,No,male,Other,24
+2020-10-07,0,0,0,0,0,Positive,No,male,Contact with confirmed,23
+2020-10-14,0,0,0,0,0,Positive,No,male,Other,50
+2021-02-22,0,0,0,0,1,Positive,No,female,Other,45
+2020-12-06,0,0,0,0,0,Negative,No,male,Other,24
+2021-02-21,0,0,0,0,0,Negative,No,male,Other,27
+2021-01-13,0,0,0,0,0,Negative,No,female,Other,26
+2021-09-14,0,0,0,1,1,Positive,No,male,,23
+2021-08-01,0,1,0,0,0,Positive,No,male,Contact with confirmed,42
+2020-12-26,0,0,0,0,0,Negative,No,female,Other,36
+2020-07-13,0,0,0,0,0,Positive,No,female,Other,57
+2020-07-11,0,0,0,0,0,Positive,No,female,Other,58
+2020-07-15,1,0,0,0,0,Positive,No,female,Contact with confirmed,26
+2021-08-31,0,0,0,0,0,Negative,No,male,Other,36
+2021-01-12,0,1,0,0,1,Positive,Yes,female,Other,80
+2021-08-05,0,0,0,0,0,Positive,No,female,Other,51
+2020-12-27,0,0,0,0,0,Negative,Yes,male,Other,76
+2020-08-26,0,0,0,0,0,Positive,Yes,female,Other,71
+2020-12-30,0,0,0,0,0,Negative,No,male,Other,46
+2021-09-18,0,0,0,0,0,Positive,No,male,Other,23
+2020-10-25,0,0,0,0,0,Positive,No,male,,54
+2021-01-06,0,0,0,0,0,Positive,No,male,Other,26
+2020-11-11,0,0,0,0,0,Negative,No,female,Other,37
+2020-12-24,0,0,0,0,0,Negative,Yes,female,Other,71
+2020-07-10,0,0,0,0,0,Positive,Yes,male,Contact with confirmed,64
+2020-06-28,0,1,0,0,0,Negative,No,male,Other,46
+2021-08-15,0,0,0,0,0,Negative,No,male,Other,27
+2021-03-10,0,0,0,0,0,Negative,No,female,Other,42
+2021-01-16,0,0,0,0,0,Negative,No,female,Other,29
+2021-01-01,0,0,0,0,0,Negative,Yes,female,Other,69
+2020-06-22,0,0,0,0,0,Negative,No,female,Other,55
+2020-09-23,1,1,0,0,0,Negative,No,female,Other,25
+2021-03-08,0,0,0,0,0,Negative,No,female,,56
+2020-09-25,0,0,0,0,0,Positive,Yes,female,Contact with confirmed,71
+2021-03-17,1,1,0,0,0,Positive,No,male,Other,18
+2021-02-07,0,0,0,0,0,Positive,No,female,Contact with confirmed,44
+2021-08-31,0,0,0,0,0,Negative,No,female,Other,29
+2021-08-30,0,1,0,0,1,Positive,No,female,Contact with confirmed,54
+2020-12-25,0,0,0,0,0,Positive,No,male,Other,43
+2020-12-22,0,0,0,0,1,Negative,No,male,Contact with confirmed,24
+2021-09-13,0,0,0,0,0,Positive,No,female,Other,42
+2020-11-14,0,0,0,0,0,Negative,No,male,Other,45
+2020-12-15,0,0,0,0,0,Negative,No,male,Other,24
+2021-01-14,0,0,0,0,0,Positive,No,male,Other,41
+2021-03-05,0,0,0,0,0,Negative,No,male,Other,30
+2020-12-22,0,0,0,0,0,Negative,No,female,Other,20
+2020-12-29,0,0,0,0,0,Negative,No,male,Other,45
+2020-12-24,0,0,0,0,0,Positive,No,female,Other,40
+2021-01-27,0,0,0,0,0,Negative,No,female,Other,58
+2021-09-19,0,0,0,0,0,Positive,No,male,Contact with confirmed,18
+2020-08-16,1,1,0,0,0,Positive,No,female,,54
+2020-07-07,1,1,1,0,0,Positive,No,female,Other,35
+2021-08-10,1,1,0,0,1,Positive,No,female,Contact with confirmed,35
+2021-01-27,0,0,0,0,0,Positive,No,female,Contact with confirmed,30
+2020-09-16,0,0,0,0,0,Negative,No,male,,34
+2020-10-21,0,0,0,0,0,Negative,Yes,female,Other,89
+2020-07-18,0,0,0,0,0,Negative,No,female,Other,53
+2020-09-09,0,0,0,0,0,Negative,No,male,Other,53
+2020-09-15,0,0,0,0,0,Positive,No,female,Other,22
+2020-12-21,1,0,0,0,0,Positive,No,female,Contact with confirmed,46
+2020-10-07,0,0,0,0,0,Negative,No,male,Other,36
+2021-01-11,1,0,0,0,1,Positive,No,male,Contact with confirmed,53
+2020-08-19,0,0,0,0,0,Negative,Yes,male,,83
+2020-12-08,0,0,0,0,0,Negative,No,female,Other,22
+2020-12-13,0,0,0,0,0,Negative,No,female,Other,33
+2021-03-11,0,0,0,0,0,Positive,No,male,Contact with confirmed,36
+2020-08-13,0,0,0,0,0,Positive,No,male,,36
+2021-09-26,0,1,0,0,1,Positive,No,male,Other,24
+2021-09-23,0,0,0,0,0,Positive,No,female,Other,35
+2021-02-28,0,0,0,0,0,Negative,No,male,Other,34
+2020-12-20,0,0,0,0,0,Negative,No,female,Other,40
+2020-09-07,0,0,0,0,0,Positive,No,female,Contact with confirmed,31
+2021-01-03,0,0,0,0,1,Negative,No,male,Contact with confirmed,40
+2020-09-26,0,0,0,0,0,Positive,No,female,Contact with confirmed,24
+2021-02-10,0,0,0,0,0,Negative,No,female,Other,53
+2020-09-30,0,0,0,0,0,Positive,No,male,Other,37
+2021-08-23,0,0,0,0,0,Negative,No,female,Other,49
+2020-12-14,0,0,0,0,1,Positive,No,female,Contact with confirmed,50
+2020-09-22,0,0,0,0,0,Positive,Yes,female,Contact with confirmed,65
+2021-02-15,0,1,0,0,0,Negative,No,male,,39
+2021-02-27,0,0,0,0,0,Positive,No,male,Contact with confirmed,45
+2020-11-24,0,0,0,0,0,Negative,No,female,Other,37
+2021-08-21,0,0,0,0,0,Negative,No,male,Other,29
+2020-10-06,0,0,0,0,0,Negative,No,male,Other,29
+2020-04-14,0,0,0,0,0,Negative,Yes,female,Other,66
+2021-08-03,0,0,0,0,0,Negative,No,female,,49
+2020-10-08,0,0,0,0,0,Negative,No,male,,40
+2021-03-05,0,0,0,0,0,Negative,No,female,Other,44
+2020-10-02,0,0,0,0,0,Positive,No,male,Contact with confirmed,34
+2020-09-30,0,0,0,0,0,Negative,No,female,Other,26
+2021-08-09,0,0,0,0,0,Positive,No,female,Contact with confirmed,21
+2020-12-19,0,0,0,0,0,Negative,No,female,Other,47
+2020-09-25,0,0,0,0,0,Negative,No,male,Other,33
+2021-01-01,0,0,0,0,1,Positive,No,female,Contact with confirmed,46
+2021-01-19,1,0,0,0,0,Positive,Yes,male,Other,73
+2021-02-01,0,0,0,0,0,Negative,No,male,Other,22
+2020-03-31,0,0,1,0,0,Positive,Yes,female,Contact with confirmed,74
+2021-07-30,0,0,0,0,0,Positive,No,male,Other,39
+2021-08-13,0,0,0,0,0,Negative,No,male,,54
+2021-09-05,0,0,0,0,0,Negative,No,female,Other,45
+2020-10-29,0,0,0,0,0,Positive,No,male,Contact with confirmed,42
+2020-07-10,0,0,0,0,0,Negative,No,male,Contact with confirmed,23
+2020-09-25,0,0,0,0,1,Positive,No,male,Contact with confirmed,40
+2021-01-13,0,0,0,1,0,Positive,No,female,,51
+2020-12-26,0,0,0,0,0,Negative,Yes,female,Other,85
+2020-09-26,0,0,1,0,0,Positive,No,male,Contact with confirmed,25
+2021-03-18,0,0,0,0,0,Negative,No,male,,34
+2021-03-10,0,0,0,0,0,Negative,No,male,Other,43
+2021-03-10,0,0,0,0,0,Negative,No,male,Other,26
+2020-09-21,0,0,0,0,0,Negative,No,male,Other,45
+2020-07-08,0,0,0,0,0,Negative,No,male,Other,33
+2020-10-19,0,0,0,0,0,Negative,Yes,male,Other,64
+2020-12-24,0,0,0,0,0,Negative,Yes,male,,73
+2020-08-13,0,0,0,0,0,Positive,No,female,Other,56
+2021-02-07,1,0,0,0,0,Positive,Yes,female,Contact with confirmed,69
+2020-10-07,0,1,0,0,0,Positive,No,female,Contact with confirmed,36
+2020-12-03,0,0,0,0,1,Negative,No,female,Contact with confirmed,55
+2020-12-31,0,0,0,0,0,Negative,Yes,female,Other,75
+2020-09-24,0,0,0,0,0,Negative,No,male,Other,25
+2021-09-19,0,0,0,0,0,Positive,No,male,Other,54
+2021-03-02,0,0,0,0,0,Negative,No,male,,47
+2020-04-02,1,1,0,0,0,Positive,No,female,Other,26
+2020-09-21,0,0,0,0,0,Negative,No,female,,52
+2020-09-07,1,1,0,0,0,Positive,No,male,Contact with confirmed,57
+2021-02-02,0,0,0,0,0,Negative,No,male,Other,19
+2021-08-04,0,0,0,0,0,Negative,No,female,Other,18
+2020-09-05,0,0,0,1,0,Positive,No,female,Other,36
+2020-07-15,0,0,0,0,0,Negative,No,female,Other,43
+2020-07-15,0,0,0,0,0,Positive,No,male,Contact with confirmed,34
+2021-01-27,1,0,0,0,0,Positive,No,male,Contact with confirmed,22
+2020-09-29,0,0,0,0,0,Positive,No,male,Other,48
+2020-10-08,0,0,0,0,0,Negative,No,female,Contact with confirmed,37
+2021-09-07,0,0,0,0,0,Negative,Yes,male,Other,69
+2020-09-22,0,0,0,0,0,Positive,No,female,Other,33
+2020-12-25,0,0,0,0,0,Positive,No,male,Other,52
+2021-08-15,0,0,0,0,0,Negative,No,male,Other,41
+2020-12-21,1,0,1,0,0,Positive,No,male,Contact with confirmed,56
+2021-02-11,0,0,0,0,0,Positive,No,male,Other,56
+2020-09-22,0,0,0,0,0,Negative,No,female,Other,50
+2020-09-02,0,0,0,0,0,Negative,No,male,Contact with confirmed,23
+2020-08-26,0,0,0,0,0,Positive,No,female,Other,40
+2021-01-23,0,0,0,0,0,Negative,No,female,,30
+2020-04-04,1,0,0,0,0,Negative,No,male,Contact with confirmed,45
+2021-01-06,1,1,1,0,1,Positive,No,male,,51
+2020-07-02,0,0,0,0,0,Negative,No,female,Other,22
+2021-01-26,0,0,0,0,0,Negative,No,female,Other,31
+2020-12-10,0,0,0,0,0,Negative,No,female,Other,58
+2021-09-01,0,0,0,0,0,Positive,No,male,Other,26
+2020-12-17,0,0,0,0,0,Negative,Yes,male,Other,61
+2020-06-23,0,0,0,0,0,Negative,No,male,Other,20
+2020-08-17,0,0,0,0,0,Positive,No,female,Other,46
+2020-09-14,0,0,0,0,0,Positive,No,female,Contact with confirmed,51
+2021-02-11,0,0,0,0,0,Positive,No,female,Contact with confirmed,21
+2020-09-14,0,0,0,0,0,Positive,No,male,Other,42
+2021-02-25,0,0,0,0,0,Negative,No,male,Other,43
+2020-06-18,1,1,0,0,0,Positive,Yes,male,Other,65
+2021-09-08,0,0,0,0,0,Negative,Yes,female,Other,87
+2020-09-04,0,0,0,0,1,Positive,No,male,,23
+2020-11-03,0,0,0,0,0,Negative,No,female,Other,58
+2021-08-09,0,0,0,0,0,Positive,No,female,Other,27
+2021-02-11,1,1,1,0,1,Positive,No,female,Contact with confirmed,57
+2020-12-02,0,0,0,0,0,Negative,No,female,Other,52
+2021-02-16,0,0,0,0,0,Positive,No,female,Contact with confirmed,41
+2020-12-17,0,0,0,0,0,Negative,Yes,male,Other,71
+2020-09-23,0,1,1,0,1,Positive,No,male,Other,44
+2021-09-06,0,0,0,0,0,Negative,No,male,Other,42
+2021-01-27,1,1,0,0,1,Positive,No,male,Other,31
+2020-09-30,0,0,0,0,0,Positive,No,male,Other,20
+2020-06-30,0,0,0,0,0,Positive,Yes,female,Contact with confirmed,78
+2021-01-17,0,0,0,0,0,Negative,No,male,Other,55
+2021-03-05,0,0,0,0,0,Positive,No,male,,21
+2021-03-15,0,0,0,0,0,Positive,No,male,Contact with confirmed,57
+2021-07-20,0,0,0,0,0,Negative,No,female,Other,49
+2021-01-19,0,0,0,0,0,Positive,No,female,Other,29
+2021-01-17,0,0,0,0,0,Positive,No,male,,19
+2020-09-02,0,0,0,0,0,Positive,No,female,Contact with confirmed,18
+2021-02-16,0,0,0,0,1,Positive,No,female,Other,35
+2021-09-03,0,0,0,0,0,Negative,No,female,Other,58
+2020-06-22,0,0,0,0,0,Negative,No,female,Other,40
+2021-01-19,1,0,0,0,1,Positive,No,female,Contact with confirmed,54
+2021-03-02,0,0,0,0,0,Positive,No,male,Contact with confirmed,22
+2021-09-22,0,0,0,0,0,Positive,No,female,Other,29
+2021-08-23,0,0,0,0,0,Negative,No,male,Other,41
+2020-10-14,0,0,0,0,0,Negative,No,female,Other,20
+2020-10-01,1,1,0,0,0,Positive,No,male,Contact with confirmed,27
+2021-02-19,0,0,0,0,0,Negative,Yes,male,Other,88
+2021-09-22,0,0,0,0,1,Positive,No,male,Other,32
+2020-07-08,0,0,0,0,0,Negative,No,male,Other,37
+2020-07-20,0,0,0,0,0,Positive,No,male,Contact with confirmed,43
+2020-12-31,0,0,0,0,0,Positive,No,male,Contact with confirmed,57
+2020-11-28,0,0,0,0,0,Positive,No,male,Other,33
+2020-10-27,1,0,1,0,0,Positive,Yes,male,Contact with confirmed,70
+2021-08-16,0,0,0,0,1,Positive,No,female,Other,51
+2020-09-20,0,0,0,0,0,Positive,Yes,male,Other,87
+2020-10-11,1,0,1,0,0,Positive,No,male,Contact with confirmed,53
+2020-09-30,0,0,0,0,0,Positive,No,male,Other,18
+2021-08-13,0,0,0,0,0,Positive,No,male,Other,57
+2021-02-14,1,1,0,0,0,Positive,No,male,Contact with confirmed,40
+2021-03-06,0,0,0,0,0,Negative,No,male,Other,23
+2021-01-08,1,1,0,0,0,Positive,No,male,Other,18
+2021-01-15,0,0,0,0,0,Negative,No,male,,31
+2020-09-14,0,0,0,0,0,Positive,No,female,,36
+2021-08-11,0,0,0,0,0,Negative,No,male,Other,47
+2020-09-18,0,0,0,0,0,Positive,No,female,Other,40
+2020-12-24,0,0,0,0,1,Positive,Yes,female,Other,62
+2020-09-17,1,0,0,0,1,Negative,No,female,Other,33
+2020-11-16,0,0,0,0,0,Negative,No,female,Other,37
+2021-03-09,0,0,0,0,0,Negative,No,female,,58
+2020-12-07,0,0,0,0,0,Negative,Yes,female,Other,80
+2020-11-09,1,0,1,0,0,Negative,No,female,Contact with confirmed,41
+2020-11-19,0,0,0,0,0,Negative,No,male,Other,57
+2021-08-23,0,0,0,0,0,Negative,No,male,Other,52
+2020-06-19,0,1,0,0,0,Positive,No,female,Contact with confirmed,52
+2020-07-16,0,0,0,0,0,Negative,Yes,female,Other,85
+2020-11-04,0,0,0,0,0,Negative,No,female,Other,45
+2021-09-05,0,0,0,0,0,Negative,No,male,Other,48
+2020-03-20,0,0,0,0,0,Negative,No,female,Other,39
+2020-04-04,0,0,0,0,0,Negative,Yes,male,,88
+2021-02-08,0,0,0,0,0,Positive,No,male,,49
+2020-09-29,0,0,0,0,0,Positive,No,female,Other,57
+2021-02-14,0,0,1,0,0,Positive,No,female,Other,32
+2021-01-27,0,0,0,0,0,Positive,No,male,,23
+2020-07-07,0,0,0,0,0,Positive,No,male,Contact with confirmed,31
+2021-10-07,0,0,0,0,0,Positive,No,male,Other,36
+2021-02-26,0,0,0,0,0,Negative,No,male,Other,33
+2020-10-03,1,1,0,0,0,Positive,No,male,Other,58
+2021-02-28,0,0,0,0,0,Positive,No,female,Contact with confirmed,54
+2021-01-14,1,1,0,0,0,Positive,No,male,Other,51
+2020-07-13,0,0,0,0,0,Negative,No,male,Contact with confirmed,29
+2021-02-04,0,1,0,0,1,Positive,No,male,Other,41
+2020-09-17,0,1,0,0,0,Positive,No,male,Contact with confirmed,57
